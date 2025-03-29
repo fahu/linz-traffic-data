@@ -9,6 +9,7 @@ import sys
 import csv
 import io
 import argparse
+import codecs
 from typing import Optional, Dict, List, Any, Union
 
 # Set up logging
@@ -36,7 +37,7 @@ DATASETS = [
 ]
 
 # Attributes to request
-ATTRIBUTES = ["pkw", "datum", "ID"]
+ATTRIBUTES = ["pkw", "lkw", "rad", "fuss", "datum", "ID", "ort", "richtung"]
 
 # Output format options
 OUTPUT_FORMAT_JSON = "json"
@@ -176,7 +177,7 @@ class LinzTrafficScraper:
         
         while retry_count < max_retries:
             try:
-                response = self.session.get(url, timeout=60)  # Added timeout
+                response = self.session.get(url, timeout=60)
                 
                 # Handle unauthorized errors specifically
                 if response.status_code == 401:
@@ -220,6 +221,9 @@ class LinzTrafficScraper:
                         logger.error(f"Max retries reached for {dataset_name}")
                         return None
                 
+                # Ensure proper encoding detection
+                response.encoding = response.apparent_encoding
+                
                 # Check if the response is JSON
                 try:
                     data = response.json()
@@ -260,8 +264,9 @@ class LinzTrafficScraper:
             # Clean up CSV text - remove any BOM characters or other non-standard characters
             csv_text = csv_text.strip()
             
-            # Parse CSV using Python's csv module
-            csv_reader = csv.reader(io.StringIO(csv_text), delimiter=',', quotechar='"')
+            # Parse CSV using Python's csv module with proper Unicode handling
+            # Use StringIO with unicode handling to process the CSV
+            csv_reader = csv.reader(io.StringIO(csv_text, newline=''), delimiter=',', quotechar='"')
             
             # Get headers from first row
             try:

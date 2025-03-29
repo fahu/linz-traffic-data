@@ -1,3187 +1,6452 @@
 [
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:00:00",
-    "ID": "0e87e9bc-bd31-40cc-bac8-f96b5d78ef2b"
+    "ID": "a8f0ceba-b7f9-471e-8b20-258b1a6d9194",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:01:00",
-    "ID": "66443868-e494-4204-926d-403a55f21a2d"
+    "ID": "414e4452-04c3-45b3-849d-34bbdc0db45f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:02:00",
-    "ID": "ec978bc4-f22e-429e-bff3-3da4485f1bce"
+    "ID": "272b42b2-c244-4e9d-b9a0-a49f0b54d427",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:03:00",
-    "ID": "eb85cf77-8f49-4f18-a0a1-21afe072df28"
+    "ID": "827061e5-b86f-45e8-89d3-9d8ccaa1d373",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:04:00",
-    "ID": "e32a773e-ea36-44ec-91c8-c4f906f15e40"
+    "ID": "33f4c357-54a7-4f18-b54b-dda7bfc1637e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:05:00",
-    "ID": "6c3104ed-aff0-4584-b316-7ed8a5f8dde2"
+    "ID": "fe6ab6f7-effe-4af2-98e1-a7d1f75c81c4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:06:00",
-    "ID": "a29af662-3392-46f7-b605-bf382d4edcbf"
+    "ID": "5d050228-380a-4ee4-a445-66f817ac5014",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:07:00",
-    "ID": "4c90cd03-92be-4dba-9eb9-4084165ed150"
+    "ID": "9fdf1dee-0bc0-47fb-a810-5287c2ab8099",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:08:00",
-    "ID": "212fbf91-ea73-4cba-9c67-53203385a4b9"
+    "ID": "fce7181a-29f5-4b98-afed-33a8e8e40f03",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:09:00",
-    "ID": "686cb199-4888-4ef3-a5a6-352a51217b85"
+    "ID": "f8a1f618-15a1-4be4-89cc-d70892eb6337",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:10:00",
-    "ID": "86bd883e-12df-45ec-b71c-1851e9416741"
+    "ID": "3f8af829-5436-4df0-a940-f070b69eac65",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:11:00",
-    "ID": "e0dc3cdb-760a-4a38-9800-95e13b4fcb30"
+    "ID": "e23b776c-e373-4daa-b34e-cee3fd9f11c1",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:12:00",
-    "ID": "397e2fcd-9063-49a7-b7af-dc96f645e76c"
+    "ID": "36a59781-29e4-42ef-8df6-626b2ee9d447",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:13:00",
-    "ID": "b8dcea88-feb1-45a8-8f9e-ba3d241e4b5b"
+    "ID": "15d0986c-6f59-4b36-af62-b87390fad741",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:14:00",
-    "ID": "b9bf825c-25fb-4a8a-b37e-d03887d95725"
+    "ID": "48653854-cc9e-47b1-9c9f-9cc016146c98",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:15:00",
-    "ID": "fa5475af-6d3e-4640-b02c-ecc8f931c016"
+    "ID": "989d0e08-8d72-4899-9715-3a61b39e6af4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:16:00",
-    "ID": "84089eb8-f128-4e7f-ba1c-08ed63b115d2"
+    "ID": "24c9fd9b-1263-435e-97fc-a87d0c3a6459",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:17:00",
-    "ID": "89741ae3-6b3c-4e3b-b489-426de67da390"
+    "ID": "6a219bf9-2559-4d5d-b825-022f46c04d64",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:18:00",
-    "ID": "0860badc-479c-4d72-9d88-ac6b5caa4162"
+    "ID": "a08e51d6-dafd-482e-8746-35c1f53b9622",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:19:00",
-    "ID": "d7d5d523-77f6-45e6-986e-7056f0d1df4e"
+    "ID": "5d2ab803-ea02-46ec-95e3-5899535604a0",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:20:00",
-    "ID": "cd057942-fb6c-4bd4-b32c-72cc03b590fd"
+    "ID": "cc4cc278-f56a-46db-9774-2511226f73ff",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:21:00",
-    "ID": "d290361b-57c0-4b49-819e-b28b63dd6c59"
+    "ID": "5a295eb5-a4b7-42a2-aac8-8b1bb4f23aa2",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:22:00",
-    "ID": "d033236e-9f95-4818-b5b5-88d07924bf91"
+    "ID": "3929dbc2-7828-48ac-8604-b110354ee64d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:23:00",
-    "ID": "68aecef9-b41c-430c-b403-50a5e2f61ceb"
+    "ID": "d2b4d630-a35b-420e-a8b5-5cc9a4043503",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:24:00",
-    "ID": "0810a416-8f0f-4286-bfc5-b59e6a53aa80"
+    "ID": "84e35c9b-4116-4062-bdba-da75dfaf0f7a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:25:00",
-    "ID": "6814fe8f-4e89-45af-9233-15a75a1d427f"
+    "ID": "934b94bd-a07e-4165-8d02-8f23cb8609ea",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:26:00",
-    "ID": "b4a5c7ba-b1c9-4a82-95b7-fcafdb925315"
+    "ID": "1c3bd944-3fa5-401b-8af1-364d87979075",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:27:00",
-    "ID": "23d4ae92-0b2d-4b8d-bf07-b867aa6be89b"
+    "ID": "264e8595-8b86-48dc-ab7e-66d4dad11714",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:28:00",
-    "ID": "b8ccf70f-43ae-4417-8ac6-ad33b01e303c"
+    "ID": "84fd89c7-b3d4-4fc4-8b97-532c9e6714eb",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:29:00",
-    "ID": "2f4156b2-98dd-49a2-b6a7-8e012cc366fe"
+    "ID": "afa20613-a034-4228-be0d-a0f71247177c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:30:00",
-    "ID": "17c617df-7b3b-48a3-b7e5-c928b2beb698"
+    "ID": "ddb4d141-2cc6-4820-a226-57b63de92d5c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:31:00",
-    "ID": "8ab34ac8-05ee-4d36-9740-1fc08b072c47"
+    "ID": "03c864de-9d84-4f3e-a446-05a22d662856",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:32:00",
-    "ID": "8182d617-b733-4538-9f30-10f5465b2ada"
+    "ID": "ee9b8ec6-f2f4-46e3-b466-c0d9fd5b9a2a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:33:00",
-    "ID": "b0088f09-1d91-4d51-8669-e4bfdb2cd217"
+    "ID": "696a78b0-2298-4146-a50a-11217cc8d03c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:34:00",
-    "ID": "a299e433-6f1d-411e-84e9-23af29358fb2"
+    "ID": "f4eab90a-9164-4c7f-a4be-664b05c4d094",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:35:00",
-    "ID": "18eb2d2a-6cc7-4c5c-b56d-45b54ec254f0"
+    "ID": "8a2cacaf-46af-4013-b099-dff73dd31772",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:36:00",
-    "ID": "05d7fa8c-8c8e-455e-bbdf-7a2ce1efd3b7"
+    "ID": "4c67cc98-0c16-4a4f-9e0c-b86cf5271a4b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:37:00",
-    "ID": "14a20f68-4cd9-4004-a690-173c4dfe0f35"
+    "ID": "ddc1571e-9954-49c2-b553-69c1ef201ddd",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:38:00",
-    "ID": "f0a209b0-639a-45da-9935-8d8e55151451"
+    "ID": "070393a0-a009-4ef2-90e5-23afafd0ac72",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:39:00",
-    "ID": "72fa03d6-fe81-4f48-b0fd-5f9bde607a9b"
+    "ID": "09f20b3a-a2b2-49ce-a171-ca0f9c42f5e8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:40:00",
-    "ID": "4ace35e5-cf86-43a8-a035-e87f71231920"
+    "ID": "202e7456-91ca-4a87-91b6-d37821862a01",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:41:00",
-    "ID": "6b117b16-f94f-47d8-a524-d4fa106af8d8"
+    "ID": "2d0115ea-18f6-45ef-afd1-9a61a7c91516",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:42:00",
-    "ID": "b0eb0255-10cd-4b5b-808b-371036b492be"
+    "ID": "0d2c1915-2f5a-48a8-bebf-e4faccf262f0",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:43:00",
-    "ID": "fa695a0a-42aa-4399-8ca1-d66396c3ff74"
+    "ID": "16f168f4-1ddb-46ca-abc3-cc33c81e6d23",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:44:00",
-    "ID": "a7ffefed-c9ef-497a-a026-b297132b5d78"
+    "ID": "5d225837-b2c9-4ef8-a6af-77717a7968b7",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:45:00",
-    "ID": "b26501d5-d360-440c-9522-ea97ea871114"
+    "ID": "5fc8f9cf-3d51-4d60-a531-c38b2c63ecac",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:46:00",
-    "ID": "c4530f66-b51b-42e3-8059-a9cd9a144327"
+    "ID": "b775a9f9-8077-4a1e-b090-3ce3e0a24034",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:47:00",
-    "ID": "c9092e99-6d37-424d-85b5-6c9e2fcc92b5"
+    "ID": "c92cc252-bc69-47bf-be84-e934197b4154",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:48:00",
-    "ID": "a1f7e18b-479d-4694-90a7-70eeebe9d751"
+    "ID": "98f31ed9-be34-4dca-96c9-92eff0c2b628",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:49:00",
-    "ID": "05838195-f3fb-45fb-bad2-1bb0415cf09b"
+    "ID": "790f58b5-6dc9-49c4-a8c3-47396bcd913e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:50:00",
-    "ID": "6f62d33f-5cbe-42ef-bbfc-874f00757525"
+    "ID": "4eec2aa7-0d2f-414f-af39-0672a23d1342",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:51:00",
-    "ID": "a1b222cc-0d38-4fc1-ad23-7c8a7070ab87"
+    "ID": "efd21745-c29e-44fd-afcc-2c39142021eb",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:52:00",
-    "ID": "748ec21e-82f4-4b8d-8dfa-ba6969d8c1e0"
+    "ID": "3a09b806-54c3-48af-aa56-17fbdcb4195a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:53:00",
-    "ID": "0bf0629c-7e0f-4298-8266-92e290d95134"
+    "ID": "eb05ba38-a118-411e-8eb7-757959e0171b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:54:00",
-    "ID": "9d288efc-e759-4a6c-aab6-499e143c96d4"
+    "ID": "f14d9bd6-50cc-47c5-9a4f-c6f0a3a387aa",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:55:00",
-    "ID": "8813f535-ea5c-4082-8bbb-ba52afac5b4d"
+    "ID": "cf1a7bb9-a80b-4d92-abee-1f959390ef00",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:56:00",
-    "ID": "f5642e51-2ead-4f56-b6e3-1ce66f8b7324"
+    "ID": "1581b574-19e1-4c18-ad5f-bd46707e9266",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:57:00",
-    "ID": "262cb7d6-7a9f-44b0-9167-d21172ddcff8"
+    "ID": "6add7b87-3ba1-4af8-b9ce-b7db18aeb16b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:58:00",
-    "ID": "373fa94e-898d-403f-9b64-5cf19d2b7349"
+    "ID": "803dfe46-3c1a-48c6-a349-a6d01e979d64",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "179",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "61",
     "datum": "03/29/2025 00:59:00",
-    "ID": "0328faf6-acf7-4cff-9450-a2be1924b162"
+    "ID": "34aba4fa-4625-43a7-9652-8875aafb7b46",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:00:00",
-    "ID": "3db82577-6b40-44ba-8c18-81cd879fed5b"
+    "ID": "cd1111b6-eaf8-4762-a2f8-73d40f29b717",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:01:00",
-    "ID": "8fd675f1-0a72-44f0-b392-ef89cd3c26f7"
+    "ID": "44283da1-e9de-4700-9f58-a7294f394edc",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:02:00",
-    "ID": "964f6a2b-0c40-42eb-b573-06b6f13f98ff"
+    "ID": "168991e1-d7a9-4d63-ab14-412fbda1a7ca",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:03:00",
-    "ID": "3285f679-2880-424d-8de4-a2fa8cde4d0a"
+    "ID": "5b5efb5d-0b43-4f49-85fa-a43408a5d4f8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:04:00",
-    "ID": "0c8dbc2e-b8e2-429d-b499-95a715b29a66"
+    "ID": "32a7784e-949e-4cba-9136-762d7dee4346",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:05:00",
-    "ID": "7e0b5cc2-6d46-4d71-b815-d58aa696717c"
+    "ID": "8a308c6d-2922-4ec4-aece-6732f6638794",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:06:00",
-    "ID": "ee6af46a-d549-4963-bf86-ea269e710b97"
+    "ID": "e7962ffd-e5a3-4b17-a075-ccd2db9acb8d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:07:00",
-    "ID": "cfabb12d-a1f9-4bee-b48e-6c21e1966093"
+    "ID": "19b81032-8415-465b-b61e-70430c4ba2c2",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:08:00",
-    "ID": "02f3f7d3-d7bb-48f0-9a1b-4bba3b1ba910"
+    "ID": "b1af9ee0-1e00-47f6-9a1a-cef7e51ced46",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:09:00",
-    "ID": "72a303a3-26e5-434e-afff-35e4ee5b75ce"
+    "ID": "f015e142-8d29-4dc2-9e91-9c9f3766ac37",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:10:00",
-    "ID": "e26e4c2c-38de-4189-9bfe-ad67bb3c22ba"
+    "ID": "6e72e345-9199-484a-8b3c-0558cd848437",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:11:00",
-    "ID": "c6d9289c-335a-4275-8915-8ce9117f2558"
+    "ID": "84bb9d00-a1c6-45e8-9470-96f167331c89",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:12:00",
-    "ID": "87d73f58-94ec-4bc8-b7cd-01878db8f176"
+    "ID": "35fd7403-76b0-462a-89cf-a692be3b150a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:13:00",
-    "ID": "6552ba66-cb94-478a-9b39-1b3f5a6ac1bb"
+    "ID": "9a76ce4c-c2a4-4ae3-a793-93097df9869d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:14:00",
-    "ID": "e86e81ba-1277-4d8f-9957-eb969b2b2197"
+    "ID": "a15ff5bd-f867-4f38-94ee-695e34fc8479",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:15:00",
-    "ID": "5d67a461-c2e6-4588-8c1d-c6a5ebc6240d"
+    "ID": "4070ce12-1db8-4ddd-b285-795b26b8f2b0",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:16:00",
-    "ID": "393dc238-72c7-43cd-8101-61e4ccf18636"
+    "ID": "aac41839-4d85-455c-8d55-3518a133962d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:17:00",
-    "ID": "6574a9aa-8dc9-4775-9c56-6e42870ef2db"
+    "ID": "2ff0253d-e7e9-4104-844b-1620e63edadf",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:18:00",
-    "ID": "53bf118c-05bf-48eb-a4aa-2ff716989935"
+    "ID": "dfb1fb65-86dd-4ee1-8275-fbd134090fde",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:19:00",
-    "ID": "ff6e0a2f-aac1-4268-919e-4aefab11f4dd"
+    "ID": "c23dcd43-44be-4892-b44b-f680def1e3a9",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:20:00",
-    "ID": "b1d077a1-f890-40ea-a8b5-910d39a0fa86"
+    "ID": "05c46928-f8d4-49fc-b0b1-ad3712adc78f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:21:00",
-    "ID": "a7220057-891f-4a9f-9fde-9bd1e9cc2aa4"
+    "ID": "52886b7a-cae6-4c0a-8ad2-7f1f7ac1d459",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:22:00",
-    "ID": "2fd911a1-2aa1-4742-b8d2-97bca0e3bb61"
+    "ID": "15a5248f-797c-4271-9959-7c9445b5ff11",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:23:00",
-    "ID": "2e46339c-4dbd-4b3f-9bb5-31ff98337adf"
+    "ID": "5b4f076b-337b-4bcc-b874-4ba93adf5a23",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:24:00",
-    "ID": "3f1b9390-acca-46ea-bb51-030403c5087a"
+    "ID": "34bb4864-fa6e-42af-8bfe-d0e8d4b88b00",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:25:00",
-    "ID": "0e2051e6-0227-46b6-ae0e-03974d5cf7ab"
+    "ID": "0109f1a5-2fae-4efb-a9ed-a3e8a4e50899",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:26:00",
-    "ID": "129f5365-8844-43bc-baad-bffe96ecd582"
+    "ID": "40b66904-0df0-47f0-8ca1-bc0900396ddc",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:27:00",
-    "ID": "7280c912-12db-48eb-af5c-6afbaf58b0a1"
+    "ID": "d06b32b1-2d73-4b49-9acd-4d0a3413394a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:28:00",
-    "ID": "f83c8451-15e2-44f1-986d-a712f563a5d2"
+    "ID": "6d8451f6-92ff-4f6d-b7ac-944494e8ff9a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:29:00",
-    "ID": "7ca51627-436d-4ac5-bdee-fe819c63222d"
+    "ID": "30e2bf44-0e62-4805-a9c5-567029ff1951",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:30:00",
-    "ID": "293e0c1c-0ae8-4b18-8245-976f6b4a650a"
+    "ID": "e1983a85-e2d5-49f8-98ae-a15b11f4fa54",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:31:00",
-    "ID": "ef6d1ba3-7c58-4ae9-86c8-e0af6735849c"
+    "ID": "7795e3aa-ac29-4c41-b5ee-02be74fe5f22",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:32:00",
-    "ID": "f832f23d-8a94-4212-b256-d2652f9a84d6"
+    "ID": "b9c9ff81-f880-4317-9a38-6a1ffce2c6da",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:33:00",
-    "ID": "b3f5904e-97e7-4fe6-9065-ad3d38c60b8b"
+    "ID": "aa22a923-002a-4f63-807e-352ea37fa3ef",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:34:00",
-    "ID": "7c846c04-4fa2-4b6c-af44-ce97f1cc223d"
+    "ID": "1aa82155-56ec-4990-a407-ac3f91ced849",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:35:00",
-    "ID": "b3c4f8ef-1db2-456a-911a-c5108df4dc21"
+    "ID": "0244e90b-e787-420d-aa32-2050c731bfee",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:36:00",
-    "ID": "cc233718-fecd-4c00-9993-cc97ab2b6c5d"
+    "ID": "a22fd664-893a-4c45-813e-133c31904a01",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:37:00",
-    "ID": "6df9fcc5-30c3-49dc-ae5d-bdf07ddd3cbc"
+    "ID": "4d3c5f34-f3c2-4339-a598-4a783de45451",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:38:00",
-    "ID": "9d0b1a77-7ccc-4cbd-a1f1-2cabb6350f37"
+    "ID": "0a10a85f-2eab-4c24-b8bf-bd2db7845f88",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:39:00",
-    "ID": "e92be88d-7d68-49ab-b57d-c4101d6e1345"
+    "ID": "42749651-dc05-4ae1-b0b9-c906100b4383",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:40:00",
-    "ID": "6a84699d-67f7-4c9d-ad2e-dc764d55cc21"
+    "ID": "9f18e2f4-fbb6-4cb9-bdc1-18853717b370",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:41:00",
-    "ID": "91738b45-89bf-456d-bda7-5e13d1a8e455"
+    "ID": "e326b5f4-f97f-49c6-ae52-7be45c210602",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:42:00",
-    "ID": "6e862bc7-b832-46f5-9787-4e4c3f3853c0"
+    "ID": "67ddf2d7-a6e3-4594-a494-9df9c9989890",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:43:00",
-    "ID": "d430ffa3-4b96-4f09-b959-493786c3fa6b"
+    "ID": "5f0074d4-888f-4b96-8414-0ceeba287ccd",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:44:00",
-    "ID": "8a6e10bc-0100-459f-a656-dbd66263e497"
+    "ID": "2236165d-1dd5-45ef-b8b5-beba683af1a0",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:45:00",
-    "ID": "c56822a2-a4d8-424d-a2af-f2b2021e92d4"
+    "ID": "722178d0-b0e7-45fe-8b25-09f5aec83f15",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:46:00",
-    "ID": "902c4409-4940-438d-baee-d8702dc77d31"
+    "ID": "3fa22405-c733-4f5a-9582-df55a451bd69",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:47:00",
-    "ID": "005963c8-1a16-47dd-a09e-a5f4d7fb292f"
+    "ID": "5295df19-f67e-4a9e-819b-cc47aa657789",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:48:00",
-    "ID": "fded74b7-15ef-43c4-8bd5-1abac84c13a1"
+    "ID": "07ad92f8-76a2-4f7b-804e-5d34c8ad877c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:49:00",
-    "ID": "6ebe73ab-bef5-4706-b3ee-4cea5472c02a"
+    "ID": "e876f707-b863-4520-8a84-59b2a102aeef",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:50:00",
-    "ID": "740bf433-feb1-4030-9b03-02d1aa8ad9df"
+    "ID": "252dd0ba-bd04-46b4-a9bc-9b9419d7579b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:51:00",
-    "ID": "2897f645-a048-413f-af9a-384123970b9b"
+    "ID": "0688733a-4e1c-46b6-9e55-e3f42d90d007",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:52:00",
-    "ID": "ddc205f1-e5b2-4bb2-b315-04dfc369981f"
+    "ID": "92d3b102-4e95-47bf-a773-9f940b110a87",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:53:00",
-    "ID": "59c43998-6ff5-428b-8eeb-2517e5f0bd5c"
+    "ID": "1046b75f-38d3-4386-a43d-ec040d93a3e4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:54:00",
-    "ID": "fdc56e0a-92a0-4dee-bbd0-81aad1b80a76"
+    "ID": "8d9de840-d453-4e40-964d-25dff9da17f5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:55:00",
-    "ID": "b0fa5258-c270-477d-80eb-74558a77f91f"
+    "ID": "5e973425-2e95-443d-8f4b-e46550e77148",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:56:00",
-    "ID": "24d69526-83b7-46be-87f3-b8eec0b29f5c"
+    "ID": "3a18e0ef-354b-4b3f-87f1-f1bf56868374",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:57:00",
-    "ID": "e399a433-747a-46ba-9d26-1ccad314d53a"
+    "ID": "927660f9-8457-425b-ab17-cd0f74d6a992",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:58:00",
-    "ID": "a1c62e4d-0d28-44f9-b163-dd566d652882"
+    "ID": "e52d6dcc-1e6f-4501-9895-ea31a1f29dcc",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "144",
+    "lkw": "2",
+    "rad": "2",
+    "fuss": "41",
     "datum": "03/29/2025 01:59:00",
-    "ID": "6be34646-8c57-49b2-bc33-745e031c955b"
+    "ID": "81dd3ad1-ec9a-4fae-a598-c0cf857f5fca",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:00:00",
-    "ID": "fb069e66-f9f4-4541-acff-9fde4bd34180"
+    "ID": "662bf15a-cad1-4173-b426-5128e4a5fb41",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:01:00",
-    "ID": "44fdfbbe-1ed4-4a9a-a576-f7dfc094f5e5"
+    "ID": "f7fc75ed-c57f-4c3f-8de4-09d132f6561a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:02:00",
-    "ID": "25479f47-aaf0-4bdf-8fdc-e7709bc34424"
+    "ID": "971bfcfa-2c01-4a7d-8997-fdc3e358c71c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:03:00",
-    "ID": "e0fa8a54-7e5b-404e-9eed-d679ce138c00"
+    "ID": "a19eded4-86ca-4c50-a688-04945166a637",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:04:00",
-    "ID": "0566b450-de35-40d8-87b3-82c7f27b9423"
+    "ID": "f71c4846-f50c-435e-99e3-dcce54cdf404",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:05:00",
-    "ID": "2e688909-dd0b-4fc8-929f-ef458d2a6747"
+    "ID": "1edfe404-5369-4fa4-a450-72a998c62959",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:06:00",
-    "ID": "5daf8055-e063-48bf-a397-5bdf5be8d62e"
+    "ID": "0e1851f9-dc6b-442d-8533-85a22d28288d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:07:00",
-    "ID": "0ba03775-c3d4-4065-abf3-8bb403af4869"
+    "ID": "dcc483a2-edc1-4bb3-ba3a-5850a02f4697",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:08:00",
-    "ID": "369e1709-2ca6-4bb5-b994-8dc41cbe935d"
+    "ID": "c0dd300a-72c8-47bc-ba41-3e42bc03cfa9",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:09:00",
-    "ID": "1b5d35b4-53cf-4c6f-989d-02cee9ed57b8"
+    "ID": "cda4ce7a-ba69-4cf9-8e67-e2e99e599d91",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:10:00",
-    "ID": "4c395192-3c85-40dc-8f5f-f8635770c55b"
+    "ID": "37fa6428-d9e5-4aa8-b84e-48d4b7082868",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:11:00",
-    "ID": "a43250f8-09bb-429a-a85d-efabacf0ebb9"
+    "ID": "328ce239-9ff9-45c6-bf37-3fa97057ab9a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:12:00",
-    "ID": "754b5c54-bacf-4338-9a21-c4c007cdbed6"
+    "ID": "ff21ea2a-7280-46a6-84a6-84bc99f7337b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:13:00",
-    "ID": "c71f027f-95e6-4382-997e-17a1601598f0"
+    "ID": "ae2b4e65-0876-4107-84a8-ed6539e3dbf8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:14:00",
-    "ID": "4a977cce-a5e2-4ac8-a329-0411d0b3406a"
+    "ID": "df41d4f6-727e-480a-9d65-00373a5451eb",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:15:00",
-    "ID": "e2ff8d94-1652-4f7a-803e-05f4d470065b"
+    "ID": "4ef0a11e-147b-4a9b-bde0-f9859dd59d20",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:16:00",
-    "ID": "8bb00c83-6b99-4e7d-8029-8b098e022fc8"
+    "ID": "c16cc4fc-7dbf-4b73-a3bd-b973eb757d19",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:17:00",
-    "ID": "7069398c-94c8-4f43-881a-60d6f5ac3a6a"
+    "ID": "f9ea7343-b9e5-4d0e-a6d8-80e4aff4f5f7",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:18:00",
-    "ID": "710e8ccc-b84c-4870-bb53-89d5ae2d8a4e"
+    "ID": "fc03d9ed-0a2c-4172-8066-e9e2b0d7f317",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:19:00",
-    "ID": "5b8ceef4-51de-4ed6-a0c8-55b08712dbb5"
+    "ID": "70fbe4f2-7828-4458-87e7-be585e71cbe5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:20:00",
-    "ID": "3546fba6-01a2-4b0f-b6cc-372512662a37"
+    "ID": "8ad24e39-ea40-4990-a6f3-32e45c4ad70f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:21:00",
-    "ID": "90b9da41-e983-4a80-a935-6ad35808c0df"
+    "ID": "63c32b70-d3ab-4ed9-96a2-f8fb7669bd0e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:22:00",
-    "ID": "82aed300-a229-46c8-8d63-0167bbd87059"
+    "ID": "64d56572-381f-4073-b83d-19408046218c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:23:00",
-    "ID": "b14e674f-e957-40fd-8bac-7cc752bc04fb"
+    "ID": "f7b85384-5518-4d01-b0b6-4cc97bbd74f4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:24:00",
-    "ID": "6899652d-d2f4-49c4-86b2-c14f3128d240"
+    "ID": "53d20eb7-6a49-487c-888d-2b2b44ca71f5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:25:00",
-    "ID": "bd6edc95-3c9f-4150-a5c9-b014d80fb046"
+    "ID": "e0f11a1e-6cef-4fc8-967a-caaaf4d4ed52",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:26:00",
-    "ID": "e33988dc-4e8a-4a37-96cc-436a3e293074"
+    "ID": "5fd41b3a-562e-436d-9d59-046aafd9d551",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:27:00",
-    "ID": "bbb83178-6f5b-4411-af47-961f66b628bb"
+    "ID": "1e9c9453-9458-4b21-bdef-05f7bc6fe403",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:28:00",
-    "ID": "b4a026a0-4968-475d-8988-692b4e1c5336"
+    "ID": "0fb312a9-7ea8-431a-98fb-a7a8c0b20d4e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:29:00",
-    "ID": "a93a58a7-b789-456f-aed1-03469a73c44a"
+    "ID": "ebfebbe9-8027-46f8-bd6f-0b1325571272",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:30:00",
-    "ID": "88e8cdfc-6983-406a-b1f8-07da1d4763f0"
+    "ID": "32e1aff8-0506-493a-a7bc-6418151f7b34",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:31:00",
-    "ID": "63d5a976-fb56-4aa5-9c4a-a4036d7a9f95"
+    "ID": "0c2f027a-0873-4c0f-9c40-7829b64d4fc7",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:32:00",
-    "ID": "2b0d5b9c-8a98-4b7c-b20b-faa836704671"
+    "ID": "3fc0652d-ac7e-4877-b4e4-88f76de965d6",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:33:00",
-    "ID": "813cfa96-183b-4d5e-8b6d-9962ed59387d"
+    "ID": "95d317a7-4851-4cfd-8cd4-a9c9363e0081",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:34:00",
-    "ID": "8b7ab0e7-9fe1-4f27-9c5d-a6c291d349ca"
+    "ID": "cbd5e693-a39c-4a67-944b-46951213c870",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:35:00",
-    "ID": "e31fe1e2-9b8e-4520-85d2-e77cb8084dc9"
+    "ID": "b3e52a04-0951-4547-a7a6-d3dc129a273c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:36:00",
-    "ID": "026f25be-b109-4f42-857f-36ec61c7feff"
+    "ID": "193b1df4-6b23-497e-95c4-54f6818ebc72",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:37:00",
-    "ID": "45628ad8-a77f-4e81-ac9b-988437b22095"
+    "ID": "57410de2-26fd-4853-b1a7-255b238111d6",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:38:00",
-    "ID": "a1abce04-5e62-4acf-92fa-9d72132ba759"
+    "ID": "066a225c-f282-4982-9234-9691830d6b8c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:39:00",
-    "ID": "d77f60b2-a592-4157-a100-6fef63dc3e94"
+    "ID": "72680aa2-6986-4c4e-9eaf-c53a4bc93560",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:40:00",
-    "ID": "c785af90-14c3-4a0f-a224-839527336a05"
+    "ID": "d7638f8c-c615-4b2d-8d83-f1ae5119db6c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:41:00",
-    "ID": "14220aaf-a87f-40f4-9eec-0af9f4bb7f66"
+    "ID": "e0a6ec53-3667-4569-a1d0-347129d0f472",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:42:00",
-    "ID": "25c4d706-74f7-4669-b04c-52c1086e2862"
+    "ID": "476a43fb-dc34-433f-98d2-e86e726c3124",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:43:00",
-    "ID": "114fc331-33ba-473b-8a2f-f5f5de20acb0"
+    "ID": "f9aae8eb-d12c-409a-997d-065adaa8446a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:44:00",
-    "ID": "7ad4fbda-4fd7-4c93-b4a7-a06e342a6c40"
+    "ID": "f5c27e71-ae89-4788-9adf-c893c748a9c5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:45:00",
-    "ID": "e2300a86-4426-4e26-8d05-5e6b4c3e72ac"
+    "ID": "075215a5-9f50-4fc4-a198-c618ac80a087",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:46:00",
-    "ID": "6c9b0491-817c-4284-8012-ebf70c1e805f"
+    "ID": "9fd404e3-8ddd-4be2-aed4-bdd14ef54018",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:47:00",
-    "ID": "6b332b9d-9493-4a07-8ca0-d22a01739392"
+    "ID": "7c731553-9f6f-484d-b22f-93f6b8b33f13",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:48:00",
-    "ID": "c39f2d9f-e039-4fae-a756-f8d9091633e7"
+    "ID": "970056ef-e6a3-4ae5-b509-a48bfd5b154a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:49:00",
-    "ID": "6d7b770c-c71b-45db-886f-c523552e5c95"
+    "ID": "92c8a2f9-f746-47a8-a413-03f75d7a80c3",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:50:00",
-    "ID": "6342385e-3a79-487f-943a-6ae33bd31bfd"
+    "ID": "d4df34c6-a325-4499-b3bd-997ab5855cf5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:51:00",
-    "ID": "af4271e7-0a1a-41d1-bd0b-40909a177e10"
+    "ID": "4f8f4321-27ee-4aec-8cf1-5f69a601dc1b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:52:00",
-    "ID": "7ddb267d-beaa-44cb-af80-dce4d8ddb865"
+    "ID": "fa6d3a3a-09ad-424a-baa0-c6cf658d38d2",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:53:00",
-    "ID": "403a0ebc-8e6d-4271-a491-a3d3a13f2299"
+    "ID": "4df56a43-0437-46c6-a1bf-5ff4ef51a5df",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:54:00",
-    "ID": "aec94334-01da-4042-9727-ae540afd44ec"
+    "ID": "81d1fd84-bf60-4e14-8690-39120d6af7b6",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:55:00",
-    "ID": "c32f4b5b-c205-41c6-aa45-e231204765cc"
+    "ID": "ee7aa6d1-1a4a-471a-9fdd-e5581e92b78d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:56:00",
-    "ID": "84968458-000b-4cbb-bf24-0fe56bfc4f47"
+    "ID": "bd09ab5b-2604-49c7-8150-ec6f3fc1a003",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:57:00",
-    "ID": "20c69302-89a5-461c-ae90-e370b8f4cb22"
+    "ID": "69f30b95-ad88-4106-97a5-fa74a12b9f6f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:58:00",
-    "ID": "b489aa6b-dd38-4912-aee8-f4a671f0d643"
+    "ID": "5caa4d9c-fab5-4b6a-b6ff-cb8c4c4818ab",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "132",
+    "lkw": "0",
+    "rad": "6",
+    "fuss": "30",
     "datum": "03/29/2025 02:59:00",
-    "ID": "72aa5d45-a6d4-44bf-b1cf-481f00903a90"
+    "ID": "373d0a3d-9f0d-4d02-9e97-ff18b1c1eaac",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:00:00",
-    "ID": "0f51fd90-31cb-4d7f-8db3-b698bf901ab3"
+    "ID": "2f7c2a0a-91d3-45f6-ab3c-1c148df7d955",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:01:00",
-    "ID": "45b534a1-3129-491b-a555-17bf94e770ad"
+    "ID": "ff93f90f-5ea5-4892-9109-fdce33236014",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:02:00",
-    "ID": "73dd38be-8741-405c-8ea1-f5ae2ca7d6af"
+    "ID": "e6a007b9-d956-4b50-aeab-b57688b688e6",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:03:00",
-    "ID": "0ec946dd-e926-403e-adad-518a9f8a760b"
+    "ID": "affb102b-fd8c-42f0-a585-7509ecad3698",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:04:00",
-    "ID": "121c2d97-098c-4737-b640-6ef4fb571410"
+    "ID": "611dcc3b-c866-4517-a49f-52836f4709c5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:05:00",
-    "ID": "27e25e41-4a3a-43ae-a7d1-ff16aad5547a"
+    "ID": "ab31e222-afee-4f27-8a63-371a010942ed",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:06:00",
-    "ID": "42f091b4-6322-43f2-a6f8-818bd32aba6a"
+    "ID": "56d01e0d-d001-4566-b124-30595e54f147",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:07:00",
-    "ID": "520a4f35-86dc-4418-850f-479ad36d9d09"
+    "ID": "329ff0f7-37a2-450a-9fee-7b8d7a1b84ac",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:08:00",
-    "ID": "b34903b5-dca9-4c49-abe7-7cfa56817291"
+    "ID": "207e5ebc-851a-468e-8aa0-2835345e346e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:09:00",
-    "ID": "a4c3b5d9-183a-4fc3-83f7-a24feed9e0f0"
+    "ID": "60fa48f9-e093-4874-a6ac-9d912a1d9e58",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:10:00",
-    "ID": "68927f7f-17fa-463a-9708-baaa0dcde5ef"
+    "ID": "1e520478-41fe-45fe-94b0-cdd12ab096cf",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:11:00",
-    "ID": "77571c94-161d-432d-b772-f361272f16e3"
+    "ID": "1cd4d98e-7887-41ff-b9ff-c551d851afe4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:12:00",
-    "ID": "41155491-c267-4a22-b333-a575c6ed796d"
+    "ID": "a7e979cc-1951-4ac6-9942-90c230bb5f3e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:13:00",
-    "ID": "b2e17b25-f289-42dc-9342-d1f36ed00d9e"
+    "ID": "5d614ada-4587-44bc-9390-ef2e258c7eaf",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:14:00",
-    "ID": "98aec997-990b-4bb5-99d7-d0ac73b1efb3"
+    "ID": "8dd9b539-1bcd-4b43-8235-8f9105877f13",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:15:00",
-    "ID": "7926dc69-0710-4c7d-82a4-bcf284256c32"
+    "ID": "610a46d7-ee07-41bd-b8e9-bd5c00001ed4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:16:00",
-    "ID": "6967d0c7-fa9d-4ffa-b121-0f6dbda91ce6"
+    "ID": "8fc84014-c3d6-472e-9267-0406d49863fc",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:17:00",
-    "ID": "6ea4c704-4eb6-4314-b8fb-eea0ce28e1c5"
+    "ID": "860e90dd-9b06-430a-8583-69c1b4d6c648",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:18:00",
-    "ID": "0a2e9714-602d-4294-ade6-6316e638bf2c"
+    "ID": "c3cf6fda-5eae-4479-a468-72be192938b5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:19:00",
-    "ID": "fc2e69f0-f8a5-483d-9f02-74268ff6eae6"
+    "ID": "39745438-d7e8-442c-9834-f02e12ef0247",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:20:00",
-    "ID": "12a9555b-f132-4406-b922-66c0f5fcd88f"
+    "ID": "3b3ef578-531a-46a9-a01d-1c57077def9a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:21:00",
-    "ID": "41009066-8ee7-4ade-8904-da32516115bd"
+    "ID": "1f439e19-4791-4d3c-878a-22c12d0395b0",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:22:00",
-    "ID": "a085f39b-4d17-4c7c-9fe4-f451ae1ac05c"
+    "ID": "5238c1ee-e059-4dad-80b5-9a4c204b2c27",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:23:00",
-    "ID": "1451234d-0436-49aa-9d44-b9a210f37825"
+    "ID": "5d75bf31-37c6-433f-8a07-ae6e2fb69700",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:24:00",
-    "ID": "9dc15f0c-7316-4345-a1cd-16f5ebb8bc64"
+    "ID": "9aa5cb9d-4498-4e6b-804c-f6256fbebdf4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:25:00",
-    "ID": "ab231bd2-d6dd-4ce7-bbd6-d7c0595b8fcb"
+    "ID": "0474a972-fd03-459d-9874-0dca9facce2a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:26:00",
-    "ID": "d3aed63b-c637-4d0e-bc6d-dc54ae3750b1"
+    "ID": "9610e9e2-85f2-4055-8ef3-0cb95481b2f1",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:27:00",
-    "ID": "8ff59730-bd58-4594-a705-6ebe48aa8776"
+    "ID": "08779633-124e-4b76-8fe6-f382ab7952fb",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:28:00",
-    "ID": "0395d8d8-4fce-47b4-8959-cb224cf6531c"
+    "ID": "1ea0fe67-05e2-4751-b5e0-dbab45a0d0b9",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:29:00",
-    "ID": "c4662dfd-ee52-4a7c-bc4e-4abda1c0a3ea"
+    "ID": "63300d97-274c-4b14-b471-fd522df541e2",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:30:00",
-    "ID": "b21b315f-68ea-4b08-8cfa-e3f00198757c"
+    "ID": "236ac6f3-2b95-4130-92a8-026d254b0991",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:31:00",
-    "ID": "2773421c-74f3-4dee-9c1f-a672db45cb66"
+    "ID": "421a3f37-35f5-4b23-a683-0864b481a2d6",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:32:00",
-    "ID": "d6013c34-74bd-4046-84a4-d0b8b0354a93"
+    "ID": "1de4285c-12de-4af8-9547-8679e4b4b73b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:33:00",
-    "ID": "8ca92d89-a914-4b61-a69b-3ebeb4c86132"
+    "ID": "17315362-522f-44a2-ae21-b0025198f9a8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:34:00",
-    "ID": "1cd0ab81-48a9-4f4c-b27e-a1b3f390b7a7"
+    "ID": "723cc481-e35c-40b7-bc81-ec977c3cd0ae",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:35:00",
-    "ID": "a07de671-bf14-4e11-89c9-c105e1fb4e67"
+    "ID": "0ae099cd-f780-4036-b0dd-d21e8f5edcdb",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:36:00",
-    "ID": "fb7899d4-686c-462a-8e5d-64e883dddbb9"
+    "ID": "6ca424bb-a7e5-4757-aabb-df3d69b552b7",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:37:00",
-    "ID": "3dc5634f-c797-4bfc-8736-58706221748e"
+    "ID": "aa79dc49-c83a-46fc-b941-1873dff681bb",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:38:00",
-    "ID": "ec71f129-0120-465b-b6ac-d39341d0e137"
+    "ID": "b93aeff5-4ac2-4a01-96c3-eb4e357e26dd",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:39:00",
-    "ID": "cf875a10-2b28-40ae-9191-0c8c70d40b79"
+    "ID": "4ceefee0-ef89-4023-ba9f-4c6c56bd4df0",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:40:00",
-    "ID": "8e5b38df-be64-45df-9d0e-be7625645293"
+    "ID": "02f93bfc-6834-46de-9f80-b7f3e01cb9d6",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:41:00",
-    "ID": "c5cc5c52-e498-4d88-a03d-90c5cfcde5e4"
+    "ID": "fb03918a-63a4-427e-9e38-9cd8d0d859a6",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:42:00",
-    "ID": "dc9e3cc3-8882-49ef-b1d0-ff18d48ccf98"
+    "ID": "cf5ff480-3af8-426c-a8bc-a7dbb90c3903",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:43:00",
-    "ID": "2f532572-5194-43f6-a407-a3336ac7284b"
+    "ID": "51392801-520c-459d-af2d-4e31c907c9e9",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:44:00",
-    "ID": "b960a940-45ab-473a-9092-bfbb9bacff5d"
+    "ID": "1e11ac6c-0ef2-44af-8c50-4e483709ea94",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:45:00",
-    "ID": "e4f05a90-af75-4d4c-b691-2833abd244b9"
+    "ID": "028a6d3f-ae5d-4614-9edf-eba02401e53f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:46:00",
-    "ID": "cdbba021-471c-466a-ad00-6a5eae014867"
+    "ID": "5c80b75c-4b2e-4e94-bde8-0d54121d49e9",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:47:00",
-    "ID": "b28f8a91-b0c5-45fd-8173-8d416481ed74"
+    "ID": "2325f217-ad1b-4337-b5d5-6002595114de",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:48:00",
-    "ID": "24c933c1-9c6b-4a27-bbdc-bf584bed671d"
+    "ID": "977b1c83-c5b9-4c18-8f44-f413339fe51c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:49:00",
-    "ID": "a1dca4ff-064a-4d2a-9166-ebc3c94e414f"
+    "ID": "a21e4264-63a8-4651-a44a-9b932ebd92fa",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:50:00",
-    "ID": "d9d6d261-afcc-4218-93f9-454118d70b03"
+    "ID": "fad16df0-17c6-4b3e-be82-3685a373ea68",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:51:00",
-    "ID": "2f14314c-6b56-43be-8f96-627ed2361ec5"
+    "ID": "8c0da4b7-c2ac-4f58-a903-490bc2542137",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:52:00",
-    "ID": "9a3e45a2-bc93-48dd-b171-ab667fe226ed"
+    "ID": "21787cd1-ebb0-4acc-9858-2277a34faccc",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:53:00",
-    "ID": "73eb05c2-cc33-414a-be8e-68b444573e55"
+    "ID": "5379448f-afb2-49c6-8e59-eb495decd9f1",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:54:00",
-    "ID": "abb44084-c2d2-4870-8bd6-569accd94b5a"
+    "ID": "99f0b1de-b923-4706-8e79-27b67f1e61fe",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:55:00",
-    "ID": "bc2faa53-0986-47ac-b2cf-5950df13d9fe"
+    "ID": "dd81b1ca-451c-477c-a02c-4a2256671f1a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:56:00",
-    "ID": "ae2bd0f5-5b98-489a-bb3f-34fc25a51b04"
+    "ID": "27d773ac-bdde-4561-8566-58e623a6b227",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:57:00",
-    "ID": "3fcc3b76-50cf-432c-b8b5-4ec51e33d9af"
+    "ID": "8b5012eb-602c-4646-9f7b-d50817993f9b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:58:00",
-    "ID": "d1ca1a09-0553-4e90-865b-80e63b11540e"
+    "ID": "db36886f-5c68-439a-b90e-3537083baaab",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "106",
+    "lkw": "3",
+    "rad": "0",
+    "fuss": "43",
     "datum": "03/29/2025 03:59:00",
-    "ID": "a30f2d83-9cd1-4b48-8497-424a1244b94c"
+    "ID": "09e522d6-4b2d-48ac-b388-ffdbe35a3eef",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:00:00",
-    "ID": "928ac130-d5db-4035-b5b1-3f214afd56e7"
+    "ID": "1cf57a44-e0ce-455b-b646-4b68f6f9c36a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:01:00",
-    "ID": "82581021-dced-451e-b3cb-79e130e8f56c"
+    "ID": "a20c4e94-a6e7-4d64-a61e-dbe0fa92f145",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:02:00",
-    "ID": "702e5cf1-44da-418e-9947-35cc73fec388"
+    "ID": "01221fb2-3990-4f2e-a17a-b8e562442a19",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:03:00",
-    "ID": "9cf21cb4-d380-4cf3-903b-28c5811ea82f"
+    "ID": "8cc3ff2f-a59d-413d-8638-fcb0dcc4581a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:04:00",
-    "ID": "11856d67-11a7-4139-a46b-e20d9a8e4bc4"
+    "ID": "d7f8f270-bc62-4380-bd60-1dfe112c4574",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:05:00",
-    "ID": "14ccfece-5c46-47f1-93bd-b91fa53241b0"
+    "ID": "c72bc535-1746-4b09-b306-af5b2e3ee04e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:06:00",
-    "ID": "bff7c6c0-f027-44f7-a4ce-23ca8604ccc8"
+    "ID": "f725c114-310e-4e0b-ae21-1c2c254c71c4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:07:00",
-    "ID": "6232e87a-4ea9-4023-a5ad-089a8ea6b76d"
+    "ID": "76b1442a-3458-408f-a432-f094719a2ddd",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:08:00",
-    "ID": "a0d695b6-e690-477d-b30f-efdf9ba991d9"
+    "ID": "05715e12-16e8-49ae-aa44-900bcbc5a67b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:09:00",
-    "ID": "64318b23-2ac1-46bd-9930-3999d58b1cb1"
+    "ID": "c7be0502-e4e5-4063-8dcd-4d62eec39a98",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:10:00",
-    "ID": "a62d9132-7b14-4e26-81bb-290ccd912791"
+    "ID": "c17d3f7c-8ef8-4da3-be41-54107a28418f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:11:00",
-    "ID": "3a75253e-3a15-4cd7-bf51-5cce56558076"
+    "ID": "5c2aadd3-f498-421b-ba0d-e084e1ee2653",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:12:00",
-    "ID": "b78e4c82-59b0-4071-aa16-397cb129b6b3"
+    "ID": "7f48748f-d005-4835-ab4c-979919ef38d6",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:13:00",
-    "ID": "657e9769-d074-4965-9ba4-65b94b96cf03"
+    "ID": "03bee0fd-2641-4bae-b283-fc4fa50f4498",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:14:00",
-    "ID": "e25c0517-c891-4eb1-b191-0df9b4d38886"
+    "ID": "d53d5e6b-3cdf-4f2a-a4ed-cfd2b50e45e8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:15:00",
-    "ID": "58dd204f-1678-4466-afe2-55d8de38624b"
+    "ID": "8676576b-d682-4860-a652-1fe2280beffa",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:16:00",
-    "ID": "38f66bd9-d3b7-4369-afcd-6f794b48f289"
+    "ID": "f8bc5411-f546-4572-902f-5294e080aeff",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:17:00",
-    "ID": "57e93d7c-fb03-4fb1-97f4-7cf853596d32"
+    "ID": "eede4ad5-7944-45b1-8c9a-bbae36d2f705",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:18:00",
-    "ID": "dd5bad4b-e562-4dbb-bfb1-94ca3c6db993"
+    "ID": "455da961-fc23-41d5-84cd-d1bb1966e346",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:19:00",
-    "ID": "f164a62e-a93b-4437-91cf-95f067b9a89b"
+    "ID": "2e740bdf-8b2f-42a6-a997-5203f783d11d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:20:00",
-    "ID": "da5eccdb-28ea-4824-b5e2-f67e77a1ab66"
+    "ID": "0c0788d1-994a-48d8-a30f-85429778fcea",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:21:00",
-    "ID": "56a73f63-5b8a-4716-8ea0-dde9da72fea5"
+    "ID": "485591e7-7b2a-4dcc-9dab-169d7191c192",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:22:00",
-    "ID": "0f760e8e-512b-4fff-bd63-89ce1878bdf4"
+    "ID": "400098cc-3726-44f7-84de-efbc7182da80",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:23:00",
-    "ID": "94cbe8fa-670a-4e8f-820e-7a76fba89be8"
+    "ID": "abad77d4-2edf-4cce-87cf-4794a7e1809b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:24:00",
-    "ID": "caa454f2-4662-49fc-8eb0-52083c3065f1"
+    "ID": "e8a542f6-2a97-4b21-baf9-05da9f1f663d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:25:00",
-    "ID": "bf32325e-96cb-4c2f-a2de-a92874322b44"
+    "ID": "4c317c97-b921-42fb-8715-cb3079d90e09",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:26:00",
-    "ID": "67ca3be3-db87-4119-b5ef-15c6beeaf394"
+    "ID": "77b1dd9f-b700-4360-b696-35696772c8d8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:27:00",
-    "ID": "aa0c71e8-10cc-4e99-a272-400f9382ac6d"
+    "ID": "c758aef5-983a-4755-bda5-ac33bd80ae4f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:28:00",
-    "ID": "a1b625e0-dce6-4d57-8c0d-f5382b799ba3"
+    "ID": "b1aac6f8-7cfe-41d1-a17f-ebddd59fc3c3",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:29:00",
-    "ID": "a02a0fd7-0281-4212-be35-54e824739f53"
+    "ID": "2e932c4a-0f21-43d6-acef-e5000d7bc608",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:30:00",
-    "ID": "035872c1-4afe-4d4d-976f-35242768a479"
+    "ID": "895a2a54-dc1f-45ba-b7a3-208a481eea94",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:31:00",
-    "ID": "71d68300-6079-4385-a497-d264342d8110"
+    "ID": "107fd282-9238-4b62-9eec-1f41bb9fa7f5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:32:00",
-    "ID": "fcbf32e5-7430-4a49-ac57-dfd78af0a8d2"
+    "ID": "3e1e9dea-dc06-4106-ab2d-66541226bed3",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:33:00",
-    "ID": "a3848702-b4c6-4de5-aa4d-8e4fe994ff45"
+    "ID": "26e4f5ea-758c-4fa3-bcec-def8ed9073b8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:34:00",
-    "ID": "84b77968-fefd-4bee-b187-2b8793dec76c"
+    "ID": "67382b9d-9386-444e-a184-5f72f5a8135f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:35:00",
-    "ID": "d7f6d805-12ea-4f5d-bdfb-06238bedfe8c"
+    "ID": "62adc74e-a01c-46e3-a4df-7b2eab259518",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:36:00",
-    "ID": "948405ca-21d3-46e3-ab27-53750997916d"
+    "ID": "234f8a01-04a4-4985-98c0-bb63ebf51a57",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:37:00",
-    "ID": "44af7164-4a1d-4c84-9d0f-43133fa896e0"
+    "ID": "a3779439-ab76-4227-8d25-0dc0ea5c26ca",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:38:00",
-    "ID": "40ff5d9d-e2a5-4686-81d2-1661f70dfbda"
+    "ID": "c771164f-8a29-4449-bc0d-c3f345a6f3a9",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:39:00",
-    "ID": "ad166242-a521-40b4-a3c2-b04ceec3d3ea"
+    "ID": "c49e7697-bf6b-40dc-8440-78a580b95ce0",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:40:00",
-    "ID": "ec4558af-74c3-4b22-b935-6fb846bbe934"
+    "ID": "372fef8e-69a0-4ec4-82f4-7c089ef72663",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:41:00",
-    "ID": "78df8f70-856d-40ad-8745-0dddb6eb38c1"
+    "ID": "e01b262c-e54f-4fc6-8d28-b7e8c0f54d3a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:42:00",
-    "ID": "201289c4-2c51-4311-8a1f-c5ea656361df"
+    "ID": "07565cab-9456-428a-bb9c-68700a342939",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:43:00",
-    "ID": "7b83b4cb-e7ce-4c48-9e78-1e1dfcbb6b56"
+    "ID": "9637d806-aae3-4578-9fcb-3af08b2ebcee",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:44:00",
-    "ID": "a3d0eac2-3b45-419e-b007-15d27999287d"
+    "ID": "3d577f8a-85fb-451a-9c08-8c7e4fb1b071",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:45:00",
-    "ID": "b94a7386-3492-4392-9022-37eac24028e2"
+    "ID": "3f951ae7-957e-4fac-8e63-4dbba750cd18",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:46:00",
-    "ID": "f4eec8e0-47dc-493c-a3b9-11fe0107a599"
+    "ID": "f4f48d0f-6a9f-41ae-bae2-39c43cb85640",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:47:00",
-    "ID": "6539f42b-bcab-4d1e-b407-6e096e3b431b"
+    "ID": "d4e4cf8d-d604-4169-9ebc-1957a2cb7701",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:48:00",
-    "ID": "6dbc03fa-7165-4a55-8ff7-179df2ee09a9"
+    "ID": "6553ca4a-d130-45f6-810a-2b05e7086b3f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:49:00",
-    "ID": "0496f1f4-fefb-4d22-818d-8b7939a22508"
+    "ID": "c40bb1d9-a4ae-41c2-ad63-91f207d8c98b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:50:00",
-    "ID": "a33e5934-d84a-4b9f-adee-2c6cfa407d7e"
+    "ID": "722d6440-67d2-4271-b1e9-358ba588e491",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:51:00",
-    "ID": "040105eb-2cf5-4635-b8cf-bec3f9908a4f"
+    "ID": "83561071-480d-41f2-a916-63f73a7e72bb",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:52:00",
-    "ID": "9c1097e5-42a7-4c6d-9307-1223cb38fa04"
+    "ID": "b3290a82-b23a-4d35-ac4f-373ea3e62e44",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:53:00",
-    "ID": "465f8175-cc3f-432d-8d0a-45fa0b85a31c"
+    "ID": "f5a3099e-3570-4208-a6c5-9e96330fb666",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:54:00",
-    "ID": "8d0bcc87-b282-447f-b519-2c59e446ab49"
+    "ID": "c00afffc-4895-44be-8bcc-162a53f4a98f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:55:00",
-    "ID": "21c960f2-225c-461c-af44-933c63406c84"
+    "ID": "8541820b-e388-48df-bbb4-e0afce4e38ea",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:56:00",
-    "ID": "f3c8614c-022f-48d3-8a3d-2f1c760b84d1"
+    "ID": "03480009-6f56-437c-b209-505e046b449d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:57:00",
-    "ID": "4e31fc7c-003f-403c-b892-8d12d4df8538"
+    "ID": "f30cc79c-55cb-4f69-9e3d-bb4e9a7e7582",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:58:00",
-    "ID": "60950bd9-75b0-4df6-aa18-04644a1a2fac"
+    "ID": "69a2f7c9-7e24-486a-a4bd-f301ad609dd1",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "127",
+    "lkw": "5",
+    "rad": "1",
+    "fuss": "10",
     "datum": "03/29/2025 04:59:00",
-    "ID": "93c9abc2-28bd-4b8d-b599-101bf1ace429"
+    "ID": "c640ac72-36f4-4608-b93d-4764a7b56769",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:00:00",
-    "ID": "f2f2c055-f686-4fcf-af37-74e28a11ca3e"
+    "ID": "732f2f51-e4d1-4e9a-8bba-8e47fff687fc",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:01:00",
-    "ID": "08dc1349-65ef-4fc7-9285-9fb672af69a5"
+    "ID": "23ac7d13-eb62-4568-8040-ed72bb6794de",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:02:00",
-    "ID": "d1651da2-73f3-4742-a20a-14e3c65d3331"
+    "ID": "699e8d3d-625f-44b5-86ae-20fafa1fd542",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:03:00",
-    "ID": "20a7de37-a091-47bc-b4a4-a2c82bfc3014"
+    "ID": "793c766d-bd7b-4fa1-b062-61d7e302cc27",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:04:00",
-    "ID": "dd4b18f9-0d89-43bd-b6b2-b2baaecda3c6"
+    "ID": "679c9005-ec6b-40cf-af48-c2150d8c50c9",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:05:00",
-    "ID": "781281d5-90bb-4acb-a7b3-5bd53f7bc3ba"
+    "ID": "83709061-b6ce-42c3-b77e-5f046f08aed7",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:06:00",
-    "ID": "5ae2477d-54a4-416b-8257-6aab240c66e0"
+    "ID": "a1c312aa-4de4-4d4d-8628-fde7d80c9506",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:07:00",
-    "ID": "8f3f9a38-e605-416b-b44f-54a8b336a389"
+    "ID": "199d8b7b-7719-4c5b-8e1d-828e3713f3c4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:08:00",
-    "ID": "5a586126-ba79-4d09-ac11-eaf9afeb0d6c"
+    "ID": "b5a459a0-2e75-486a-aca4-411107726385",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:09:00",
-    "ID": "30dc01f2-0882-4d17-b653-05e2057a929f"
+    "ID": "83293cb5-2c6a-4fe9-9d7d-fe8d48c9012f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:10:00",
-    "ID": "57bf385a-a334-49e0-b7a8-625e7bce745e"
+    "ID": "b3696ed9-a4c7-41a2-ab56-46823559c04a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:11:00",
-    "ID": "6a7f1b4a-f3bb-4c86-87d0-0dd4f920da81"
+    "ID": "9adec6bc-8cbe-489c-923b-6fbf7673c7fa",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:12:00",
-    "ID": "32638670-41b8-45a7-92b8-7fb407299e11"
+    "ID": "c3872507-2afa-4b4f-8e11-7c5db946988b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:13:00",
-    "ID": "2af1a26f-4cd9-4c9b-b08c-4898dc982e0b"
+    "ID": "dffe7bae-817e-4a37-ad5e-9c4a2cbe299b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:14:00",
-    "ID": "ea7477fe-afc7-4bb6-bf74-9ddb6fc6af36"
+    "ID": "7e71f300-a12b-4704-bd52-452cf6e191f6",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:15:00",
-    "ID": "57fe37c1-7b98-40fa-8a1e-081d509873a7"
+    "ID": "e9beb1ac-7d3d-4a05-aa5d-0a6ee2c0a4ba",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:16:00",
-    "ID": "28466fed-dcd7-4b74-8f21-214edd5be2d8"
+    "ID": "bb93cf52-4857-494c-a0b6-8818b8ced413",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:17:00",
-    "ID": "3902501a-adcc-4d5f-ac4a-52a75764904d"
+    "ID": "0726f533-76fa-48df-a2ad-e2e04a59c2da",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:18:00",
-    "ID": "7d6fcaef-7326-4535-8467-6ccfcf785e9b"
+    "ID": "7cfffd79-e10c-47e2-9375-9b949f035585",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:19:00",
-    "ID": "bc69e87d-5cb8-4917-9997-206fe6ca20cf"
+    "ID": "55d94c1e-1ee1-49fe-8ad6-5a7571b06baa",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:20:00",
-    "ID": "9721d2f1-688a-4366-be57-deaea2ba76fb"
+    "ID": "ce3ce7c9-c8b2-4e6d-92c9-949c0f6ed88d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:21:00",
-    "ID": "e6629be4-3f53-4471-ae31-3a1c271b8170"
+    "ID": "a591469c-6b0f-49df-b289-234ecd1d51c8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:22:00",
-    "ID": "7c5ce35e-8c45-493b-80bb-46557a7e2899"
+    "ID": "d96ee705-1a26-4396-90d0-9f9f3814611a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:23:00",
-    "ID": "1111820e-e9a9-4554-b0ab-5049b6dc6fe9"
+    "ID": "a5f7d613-0c01-4535-bad5-144e72a011f4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:24:00",
-    "ID": "72a16e36-1cbf-43f7-8f55-3af152db2084"
+    "ID": "1e0a74dd-e903-4005-ac89-537965231e6e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:25:00",
-    "ID": "1667b1f5-0a8f-4b29-a212-221806a27623"
+    "ID": "ca9364bb-7645-4060-9550-a442f6290c5b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:26:00",
-    "ID": "c9f8d484-d701-47fb-b0f0-c29d96a1dbf3"
+    "ID": "1b342448-739c-4cea-85dc-ffc4a6dabbaf",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:27:00",
-    "ID": "f2106c02-d0a0-4715-8c6e-a5b75641235f"
+    "ID": "c56616a9-5f8b-4534-b6a5-fa468f2c8b95",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:28:00",
-    "ID": "a6d685f1-9834-46bf-a1fb-a369ffb37281"
+    "ID": "32049ec6-e9e9-43f5-ad23-9c2520317afb",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:29:00",
-    "ID": "33ca5782-d375-4a5a-a7b1-db87acc4d24b"
+    "ID": "111e1f71-56c1-4361-8b4e-75e85b55e06e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:30:00",
-    "ID": "1dee1964-37f5-4d0d-8728-aec97fd8bf18"
+    "ID": "ebe0fc77-ca27-4ea3-b474-9d798242ed29",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:31:00",
-    "ID": "3ad458af-0d66-4a5c-abaa-9b1ab1222cea"
+    "ID": "21b36ba9-5d9f-45b7-9506-ab2b70a28b90",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:32:00",
-    "ID": "3692f03d-e6b5-497a-af0d-1244c805c906"
+    "ID": "d3b79341-f84d-421c-8acd-677c7cb55b69",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:33:00",
-    "ID": "70b78c79-de65-4190-b2bf-bfd702753724"
+    "ID": "f43c6dff-fc39-4d8b-9c81-ba49acfb3926",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:34:00",
-    "ID": "2a9ec625-013a-4134-966b-73a65ae90d72"
+    "ID": "a42687d0-fa20-4889-84d1-970f69951494",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:35:00",
-    "ID": "75c5e9cc-686e-431f-bed1-e5a5fd2bfd3e"
+    "ID": "bd4a1290-1061-4b0a-8ada-147452878443",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:36:00",
-    "ID": "872be034-5fb9-4781-869f-e5472580a1cb"
+    "ID": "694c7889-26db-4560-9760-cc3d1339f826",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:37:00",
-    "ID": "2e8350f4-bbca-4030-b798-c7fc6187b8f0"
+    "ID": "3b70d778-0f09-4dd0-9b11-6be23184bb91",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:38:00",
-    "ID": "66acf2af-2d00-4c09-bfa5-bbef72423419"
+    "ID": "4bfdad30-d919-46d0-9575-ab3bdb5c963c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:39:00",
-    "ID": "ae234af2-a60a-417e-b91b-ec8e3967fb26"
+    "ID": "8016ac69-de92-4d21-8792-39eaed6748a0",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:40:00",
-    "ID": "563960a4-4a93-4ae9-8b83-71c5aa5db39a"
+    "ID": "0b9cf29f-f11b-4d98-80dd-2b484c7a0460",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:41:00",
-    "ID": "5a1098a6-6e3f-4ceb-8ba8-95e003f30e7a"
+    "ID": "362ddc36-c37e-4589-872b-83de524b81ad",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:42:00",
-    "ID": "a90137fe-51f1-4ef4-968e-a0f175e32bfd"
+    "ID": "275c6677-8738-41f3-8802-9a3040537343",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:43:00",
-    "ID": "41553688-f792-484e-b4a9-bcb565711690"
+    "ID": "3664a54b-b890-4f45-8b63-a1f0cbd15be5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:44:00",
-    "ID": "8600e9e3-b85f-42fc-bb95-db4c6122e517"
+    "ID": "e6e19f58-f733-4ebb-b52e-477ed0655284",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:45:00",
-    "ID": "9f32300e-a6e1-471e-a347-bafdf2a8fa44"
+    "ID": "fd123d49-e834-4fc0-86c1-ca332c6ad151",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:46:00",
-    "ID": "abb01970-74b6-4147-a18f-59da7414ba33"
+    "ID": "dd2a88a1-a0ce-4996-a9c9-e5934254421e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:47:00",
-    "ID": "3c4578cd-7f1a-4b3b-91a0-57c4b2050300"
+    "ID": "d9b4b6c2-2dc7-4235-a2db-f647a3c0b176",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:48:00",
-    "ID": "e6b58ecc-9d59-4a6b-a538-cddf5a36b118"
+    "ID": "716bc809-f58a-4706-bb03-16fb41a6c89b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:49:00",
-    "ID": "a339ed98-28d6-4d31-9c96-302e66c98e06"
+    "ID": "e2387766-0b08-42e0-9fd4-40cc959260f7",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:50:00",
-    "ID": "304b5129-e2d7-422f-8432-13d4508af3cb"
+    "ID": "0fe7db39-cd98-4cbe-acbc-7ce62a44b142",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:51:00",
-    "ID": "a15d1357-6663-4d84-96f6-5cf3c6fdaf32"
+    "ID": "d3d9b39d-3b77-4f09-898b-78a0b4ba4490",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:52:00",
-    "ID": "fe89ef58-aadd-4435-ba4c-15725f63fc8a"
+    "ID": "ab7a89d5-105f-4ef5-860a-cca2a6d30834",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:53:00",
-    "ID": "9c953ecc-76a3-4da2-9bd7-a63057834cc1"
+    "ID": "aeae40b8-933c-40ab-8703-07e18675f17a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:54:00",
-    "ID": "cf84150e-73a5-4279-bc1d-c6d3252bc4e2"
+    "ID": "e3adf02f-fc55-42f8-ae98-3440463169e8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:55:00",
-    "ID": "4b70165e-98e9-4a85-8648-859d8c9752e3"
+    "ID": "8f2d619b-085d-409a-8453-3b2c9c02d66e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:56:00",
-    "ID": "14063847-f4c1-4c4c-ba5d-7a1f005f775c"
+    "ID": "21fe0890-128a-4588-a940-ecb60e6c7784",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:57:00",
-    "ID": "6c8afbb7-b9c3-47d7-93fe-9f800eee43a9"
+    "ID": "d792a22f-a5ea-4685-a36e-0c77918d2cbb",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:58:00",
-    "ID": "239ba781-2fdb-49ee-ab23-9e6dc7f367d0"
+    "ID": "1c89976a-7076-4665-aa90-0105c766fb3e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "161",
+    "lkw": "4",
+    "rad": "4",
+    "fuss": "7",
     "datum": "03/29/2025 05:59:00",
-    "ID": "42308e32-cafc-4c10-a72a-12a3a431b7d2"
+    "ID": "1f42093d-3fc2-4642-8b72-92f3335e0d82",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:00:00",
-    "ID": "79cbe7a4-5fc0-4883-8137-d6f470d81340"
+    "ID": "36a68b08-f4d9-4351-83bf-0fe7f9a04905",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:01:00",
-    "ID": "854305b2-8602-4a14-abf8-dca68b50e49a"
+    "ID": "ef28d423-e700-40b2-a8f7-5ea9b8d478f7",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:02:00",
-    "ID": "3ca743e1-b957-49c4-9145-0b1f13d91222"
+    "ID": "3c144458-388d-4d5c-a559-e805aef6fc44",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:03:00",
-    "ID": "38057ec6-0f96-4986-979e-5878581691cc"
+    "ID": "65b218e7-8e17-4495-ae46-f2ff64561f4a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:04:00",
-    "ID": "50b4cebd-a092-4821-8a4a-1eb9690f079f"
+    "ID": "8f10e0ec-900c-47e7-84c5-2f6075af0533",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:05:00",
-    "ID": "d7cd213d-204f-4b07-8a04-67f5b91878a9"
+    "ID": "42f64d38-be72-42a5-8565-522951cc592b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:06:00",
-    "ID": "575e643f-92b5-4b39-ad47-27ec17cf998f"
+    "ID": "ddcda469-22dc-45e8-8806-b7fa63c3c6ea",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:07:00",
-    "ID": "6002154e-961f-47b2-af4b-4d88e0a13e3c"
+    "ID": "df2290b6-81fd-41f9-a732-da4f72c63966",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:08:00",
-    "ID": "9ff96bdd-5874-465f-b9d0-91a71728316e"
+    "ID": "069a4dae-c7a9-43c4-b003-11590c1173de",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:09:00",
-    "ID": "d72886b5-31a3-4ad8-98c1-910d9815de59"
+    "ID": "0eca04a8-5077-43ba-aead-76c203adeab0",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:10:00",
-    "ID": "58f14f0f-9973-4281-9ff5-98bb7d9a94ad"
+    "ID": "90bcbef7-81e1-464e-b1b9-74dcfd25af70",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:11:00",
-    "ID": "13c8ffbe-2a62-4f5b-b138-3a0293d56fb0"
+    "ID": "88029c00-4fe1-4a6f-a3e0-6eb7db044a69",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:12:00",
-    "ID": "5789ff24-d0b2-44ca-a155-b57a829092b1"
+    "ID": "e50cd598-edef-4a8f-8fb1-f8225d99e71d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:13:00",
-    "ID": "df05a037-3086-4fae-b2ac-3dd8d56cdfd2"
+    "ID": "1308f4a0-8b5d-45cc-bead-bc2f01ad63c6",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:14:00",
-    "ID": "8c354d82-d2b2-4b51-8824-ab963c5b9a5a"
+    "ID": "5094e351-427a-4ac4-a870-ed55cd4f3376",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:15:00",
-    "ID": "bb980d82-7c2b-4291-afa5-6be979760129"
+    "ID": "91f063c4-bd80-4a46-8b9b-f0e6f32a6009",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:16:00",
-    "ID": "e0ffc1b7-3733-42ba-9387-2f10a7c95f97"
+    "ID": "bff9baeb-b9e6-4bb2-a9e6-c457bbab364d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:17:00",
-    "ID": "ffe51326-6704-40fb-9683-698a1a58dbcc"
+    "ID": "931e3e4c-9d4d-45ec-9105-9d53e290c647",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:18:00",
-    "ID": "827b63a0-861f-46df-b592-1a412c4b6a26"
+    "ID": "b68ac4cc-3927-4b1c-8176-0f5d5084157e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:19:00",
-    "ID": "c3449839-4564-447e-93b3-9044a59eeafa"
+    "ID": "3d91056e-b65d-45f5-ac91-14007c17e8ed",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:20:00",
-    "ID": "84f32551-daa4-4d76-96e6-91449e8e621c"
+    "ID": "2d4fb39b-4422-4fdf-935e-0bbf7bd6bdae",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:21:00",
-    "ID": "27b1b4fb-0f7a-41c8-9658-efdd56dcf227"
+    "ID": "defb48a6-2e3d-4339-8ba2-14943bb0e607",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:22:00",
-    "ID": "b5bf5e9a-ae51-4d43-a174-81b07ce98e66"
+    "ID": "038dea22-d81e-499d-b845-932e8fab121b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:23:00",
-    "ID": "e97ae211-4104-49ba-9b8d-8229f1b2586a"
+    "ID": "0081f9bd-2fee-4418-9d43-4d7e81ac8a4c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:24:00",
-    "ID": "24230f4b-08ff-4c4c-8171-aab73ceda349"
+    "ID": "5a929fe2-fe17-4975-8f0e-6d5729bdee6d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:25:00",
-    "ID": "f189a172-bba1-42ab-a8f8-f5de5ea7279f"
+    "ID": "b6bf8a45-04e0-43df-bd57-24935c825750",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:26:00",
-    "ID": "c320b8c8-e43b-40b0-8672-461d7543d91a"
+    "ID": "6f64a02c-7faa-4c79-ae58-45833885d02d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:27:00",
-    "ID": "0ce68c12-5065-42af-a468-8215db0c22f8"
+    "ID": "382e509a-ae59-4642-96cc-b85ac931856c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:28:00",
-    "ID": "884ce9f4-1239-4bd4-b79f-778f8d7e0174"
+    "ID": "06978ac5-b7c9-40eb-b63b-20f26115102c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:29:00",
-    "ID": "b7375d88-a34b-4590-a94f-d45c2260b635"
+    "ID": "5181b302-4f17-4e80-8374-7ab42ab0ccb5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:30:00",
-    "ID": "c60bc067-6daa-4253-8091-8a2cb60700d9"
+    "ID": "fd596375-f751-4ea1-bbbd-41e6726665d1",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:31:00",
-    "ID": "2a5883e7-9e8d-4543-b390-fa8d1a2a3d18"
+    "ID": "33cdd8ff-6128-4863-ab30-e1c65476a805",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:32:00",
-    "ID": "79ea3169-2fee-4d65-ac0f-e816ee595c8e"
+    "ID": "b6f4b3b4-ee04-4751-be47-5a3a8f7b770a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:33:00",
-    "ID": "be9eafc2-b2ec-4f3a-8377-66286bd84b31"
+    "ID": "fc0be011-b702-441f-90a3-e4402403c9f5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:34:00",
-    "ID": "05ecf1a1-00da-4fef-bef5-a942f64929d1"
+    "ID": "ddac8902-b27d-4894-9056-46de98566f85",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:35:00",
-    "ID": "9ceb79c0-4647-461c-b3b6-f9f3e421fc45"
+    "ID": "e372789f-ccfe-4529-94e3-2553bdb5765a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:36:00",
-    "ID": "2979656b-2705-468c-bf48-28853be34d44"
+    "ID": "3729d6e5-c0b0-4f86-9408-42c33d6ee82c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:37:00",
-    "ID": "6bc1ca47-8bfd-48c1-b275-8697801d2879"
+    "ID": "493447de-05a1-4dc2-9df1-f1714acbe627",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:38:00",
-    "ID": "c6acabf8-60bf-43e7-971f-223471480212"
+    "ID": "ea0156e9-a68d-4818-aaaa-9e061a09240d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:39:00",
-    "ID": "cef8eb0b-b623-4e80-9bb0-ca1b5f8573d5"
+    "ID": "3eace5dd-ee07-44db-bf15-676e056a87a1",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:40:00",
-    "ID": "876f9dab-afc0-4bc8-bb2d-6a6e48a48bca"
+    "ID": "e8e7fb2b-da65-4fe6-be24-aa1982141b3d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:41:00",
-    "ID": "f09becf4-4288-4551-ab94-a76e2b932b2c"
+    "ID": "cbf17bd2-572d-4581-b070-dba7fa5f9154",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:42:00",
-    "ID": "aa5a624e-807c-45f3-b043-a3b0c5836713"
+    "ID": "8596ef18-c9e3-431a-b5d1-8fc835cabcdf",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:43:00",
-    "ID": "79196436-610e-4492-ae16-705dad58d16f"
+    "ID": "fccc44fa-e735-4acc-80e0-f084eeb586ac",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:44:00",
-    "ID": "85eda25b-5d6c-4470-bf78-cb2cf5ec306d"
+    "ID": "ab61f6a3-327a-4589-9976-179f08e2b252",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:45:00",
-    "ID": "bf8e8eae-f393-45fa-9d35-954bd342cb67"
+    "ID": "60ffbd83-0dc2-4e04-b388-a102783f7332",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:46:00",
-    "ID": "48995ebd-ad88-44fa-ba48-a0b90fb61357"
+    "ID": "1d0ad869-c3a9-46a0-84e8-d91a9ff789d1",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:47:00",
-    "ID": "76e8a514-40d3-4b4a-ac14-f5197a3c6fb4"
+    "ID": "2f3ac005-222b-4978-887f-94382a766a32",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:48:00",
-    "ID": "cf37a143-9a49-4131-9028-6cdee2f03199"
+    "ID": "ab7537fa-1ab6-4118-98d9-0e2269b87aa7",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:49:00",
-    "ID": "355c7e89-ac21-4597-92e5-1d9a92749af7"
+    "ID": "48473da4-9ea6-4410-88e8-4be75ea2617c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:50:00",
-    "ID": "b2c5192b-b6a5-4492-bb43-f4ebdf9ad12b"
+    "ID": "078452a1-191a-4842-8d62-82c81e52d8f5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:51:00",
-    "ID": "a18d3cc9-ec36-49d8-be77-0047da498e8f"
+    "ID": "f4347f22-e183-46c4-bfbb-9ce2db68f55b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:52:00",
-    "ID": "5210184b-52e3-4c68-b0c2-389ef5bc1061"
+    "ID": "590a3ce8-2076-47aa-9c9b-af7625b4674f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:53:00",
-    "ID": "ee771396-81fe-4065-ae1c-db19bf2292a1"
+    "ID": "63782ec1-ca25-4ce6-9694-013978ef35ac",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:54:00",
-    "ID": "6a603f0d-7d80-43b8-8810-d56b20c5fd5e"
+    "ID": "417aa74b-1793-4844-a3fa-7921cedec9b5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:55:00",
-    "ID": "d8a0d7b7-48ab-4eae-8def-784bc64005d2"
+    "ID": "d8da993f-de2d-4d4b-b6b3-1cc8c0622c10",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:56:00",
-    "ID": "ce092857-600c-4be2-b659-ec3aa29a55ca"
+    "ID": "ea9b55b7-d7c1-4bae-8de4-4d9e3cd69d93",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:57:00",
-    "ID": "eceaf1d8-ac5e-4728-8359-82ba692a4039"
+    "ID": "e4f896ed-2432-4fe0-8920-6bc90c4a977f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:58:00",
-    "ID": "fbe54b89-90ca-4fbc-9e96-88d63f0696a5"
+    "ID": "69bb7950-4df3-4a6e-a020-3e344790bd2f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "236",
+    "lkw": "4",
+    "rad": "8",
+    "fuss": "7",
     "datum": "03/29/2025 06:59:00",
-    "ID": "f42426b8-1ae8-469c-a525-fbd4d421f4de"
+    "ID": "e5895c9c-6454-48e1-8a16-8ce241cbbcb6",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:00:00",
-    "ID": "0ce24da7-24b4-463a-a33a-09e279b751f5"
+    "ID": "a4348075-cc08-490a-ad75-c728889fb333",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:01:00",
-    "ID": "ca835b80-682d-4356-a9a3-8e741d0dd484"
+    "ID": "87077279-e81f-4e39-9356-b054da42b9b4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:02:00",
-    "ID": "aa310fd0-a237-45d8-a731-503c75ba21c8"
+    "ID": "8d6c6086-5842-4dd4-bdc0-fa561af2f93f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:03:00",
-    "ID": "2ac0140c-30c1-47e7-b736-39cae81c96bf"
+    "ID": "400d6f36-fc9b-4b56-99fa-09857a1e2cb0",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:04:00",
-    "ID": "cdaaecd2-0b6a-4903-8668-6f96a3b314c9"
+    "ID": "eeed0628-03f7-4be3-a689-6d2ce22d4fbc",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:05:00",
-    "ID": "4d86f48e-8a2a-4587-890a-0787e34144a9"
+    "ID": "fc0e3f50-ec2c-4132-a5c3-688c5b4d7bee",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:06:00",
-    "ID": "fdab241f-1a6c-45fd-8aa5-6b2a5868acd3"
+    "ID": "09e84691-4425-43a1-9055-3792a99e113a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:07:00",
-    "ID": "4db97451-e937-49ff-a11f-f0da690e7d4e"
+    "ID": "9cf5b177-c3ed-4678-8965-29f72ec0613c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:08:00",
-    "ID": "cab78af2-99bc-4d04-a744-3bc6f40495c3"
+    "ID": "2de5e5a1-3bea-40f9-934d-086e9388b4f8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:09:00",
-    "ID": "64d1921b-87a6-4723-99e6-0be26ae49905"
+    "ID": "ebdf4633-dd6e-431e-aefb-bef954d92ae1",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:10:00",
-    "ID": "2e7ffac1-8209-4f96-b03c-eec96b095d87"
+    "ID": "a9c49e3a-95fc-45cf-9df7-422ff25ce9cf",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:11:00",
-    "ID": "a0ca4794-2190-4391-9d92-96e82c9d6953"
+    "ID": "3eb6c8f2-971e-4b46-adaf-b3cbd34fda63",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:12:00",
-    "ID": "9fa7597b-fa7f-45c9-8c1a-c9d5c80c372b"
+    "ID": "ceadb1cc-8e07-4fec-93c6-1a526da3ffb0",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:13:00",
-    "ID": "c3e6c2ca-5449-41d8-a941-a9f39cbb6d2a"
+    "ID": "ccb35f93-1e68-4a1b-bc20-7049b6dd8b59",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:14:00",
-    "ID": "ab355f18-d93c-492d-a4d6-40cc96eb95ed"
+    "ID": "95f5f72c-92cb-4b29-9e97-39517d9743a9",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:15:00",
-    "ID": "aae3c54a-cd81-4fa5-8591-bab22ad2fe3e"
+    "ID": "e04ae87b-6a9b-4133-a843-76c464fb0d9c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:16:00",
-    "ID": "2cde032f-9447-465e-9beb-8291ec68762a"
+    "ID": "f7872419-dc1a-4197-ae36-7b7787194b94",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:17:00",
-    "ID": "26aa65bf-68d8-436e-b0d7-9332af23f4ac"
+    "ID": "47b18cfb-e074-431f-8742-e165d0cf833d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:18:00",
-    "ID": "3fa7c1de-1432-4fd4-b1ad-38866e2ea03a"
+    "ID": "5f523817-9ed5-41f0-8ca8-a2c54b771c3e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:19:00",
-    "ID": "5ce4326d-bbd4-42c8-ba7a-4fe9887d5ac8"
+    "ID": "c77d2864-bb41-4cdc-b109-f805574adb17",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:20:00",
-    "ID": "2b3bd291-84b8-47fa-8bfe-00a3ffa529ec"
+    "ID": "b778d1bc-ddfe-4e89-8b6f-87d8a460830e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:21:00",
-    "ID": "cfaf0dcd-e256-474f-b3f3-9c7dcd732a9e"
+    "ID": "ecbde53e-4e2b-4911-a3c7-3f6be16bcc08",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:22:00",
-    "ID": "cf3c20ba-8344-4cba-be83-da9735f7b1fd"
+    "ID": "f1f546c1-2fea-46c2-9c54-83259ba272b2",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:23:00",
-    "ID": "a2c100a5-b2a1-455b-b84f-7894dd0c45af"
+    "ID": "0ebbae9f-3c61-4231-9264-ea61b9adb154",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:24:00",
-    "ID": "9e4745bd-9cc5-40a0-8b52-da12c9e52f80"
+    "ID": "56c44bd8-c508-4d35-8671-9ba25f96fbc1",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:25:00",
-    "ID": "af5e0d12-d9e9-4b6f-b7f7-28dfae909be1"
+    "ID": "fe2a376b-f7c3-4036-978e-1ce8819aa0db",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:26:00",
-    "ID": "e32bcf4b-e56c-41d8-ae59-b789d81d7e42"
+    "ID": "7204b618-c018-4846-a319-bfb634a9f8fd",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:27:00",
-    "ID": "4473d4e1-9e06-4010-9aac-199ed8cc436c"
+    "ID": "c1821b23-eee6-4d40-abbf-4ee69e0fb49c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:28:00",
-    "ID": "85b6e9e5-5eed-40c0-92b8-cc80453bfed1"
+    "ID": "424de3d8-5bc5-47d7-aff8-04221507ffb7",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:29:00",
-    "ID": "b9d996e6-b177-4a75-8621-116d35f8fb67"
+    "ID": "1e0ebd5c-ae4f-4f39-bf2a-57ba51c5c29c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:30:00",
-    "ID": "1a60be5d-e625-4b15-a979-994048475a70"
+    "ID": "ffa18cbc-3db0-439d-9a8b-0bd345b27c72",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:31:00",
-    "ID": "becb036c-c325-47d7-a7ee-6777524f390b"
+    "ID": "803bb88c-eff1-4b7d-8a24-e2d466590041",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:32:00",
-    "ID": "95d5e704-9bdc-42ea-b3e1-eb6caf8ebaf8"
+    "ID": "222629b5-e422-43c2-a368-d761e5fa8aad",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:33:00",
-    "ID": "038f3d55-ede0-40dc-8f00-2d6f825f307f"
+    "ID": "3a486a6e-a2dd-46ab-ba62-8dc4bad9ddad",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:34:00",
-    "ID": "eb599c65-5944-489d-9952-21c688c524c1"
+    "ID": "069f1152-7724-4089-ba21-6b6b1765a273",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:35:00",
-    "ID": "341c0ec1-c119-41df-b142-3888039df9a7"
+    "ID": "ec7ebdf9-ee6b-40b6-98c9-2a6fe5a101eb",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:36:00",
-    "ID": "360a116b-9f55-4405-81ba-dc0ab865a479"
+    "ID": "c9e355ed-1ed6-40f4-8764-4cef15d0029b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:37:00",
-    "ID": "ad5a780a-1550-40c2-a684-3928d76bcdfe"
+    "ID": "8f7a9a07-a0a1-4640-9eda-cd86bf2a42f8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:38:00",
-    "ID": "7bc3395c-1dc7-43cb-8595-4dc0d9504b68"
+    "ID": "96c17455-ff64-41d7-91c8-81e9fdb30a04",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:39:00",
-    "ID": "3e45ae4e-0167-483b-bace-a0a4cbbc0ea7"
+    "ID": "746d5679-5f62-429f-bc3a-c9a3b33c59b8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:40:00",
-    "ID": "66abe006-67a4-4a07-89a4-918886dd1582"
+    "ID": "89e8b70f-a02d-4f10-b502-1338f4822f45",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:41:00",
-    "ID": "8e03ad0c-9ddf-471f-8205-b77ac230fd10"
+    "ID": "4a4297ae-b7f3-4923-94b2-ce609aee051a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:42:00",
-    "ID": "9b180d6d-22bb-445b-a24d-ea05908193ba"
+    "ID": "d63e3fe0-2d8b-4de1-a4e0-6174f1cf41a2",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:43:00",
-    "ID": "e70f7c50-e0f3-4a75-9255-5b47d40dd1cb"
+    "ID": "b44cd227-42fd-4a3e-a0d0-03c518fb7191",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:44:00",
-    "ID": "c53641ae-bb76-4fbc-b955-1e0c0f4eb296"
+    "ID": "33352ba7-195d-4652-a748-afab0b33f13b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:45:00",
-    "ID": "53a19883-9faf-4248-aaaf-08f4742c4e71"
+    "ID": "044679cf-aea6-4ede-b5f7-68564d3ca96a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:46:00",
-    "ID": "ba873212-2c74-489e-b8af-6ff50b904777"
+    "ID": "91c3c93a-d178-46a0-a289-317d1394cad1",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:47:00",
-    "ID": "42ba9d1b-fa18-4929-923c-17054adfd71f"
+    "ID": "bcec909a-aa84-4857-b760-7945ff9e66e0",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:48:00",
-    "ID": "861706b4-5dc1-47a8-8a38-147b20bb68e4"
+    "ID": "85c77c7e-93f5-4d71-a5b8-5f43a5bda150",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:49:00",
-    "ID": "bf952914-bb44-4074-808b-870f30fcc777"
+    "ID": "02ed7d4e-e5ee-4ed4-ba5a-8b65e1c9252e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:50:00",
-    "ID": "b12ab4b4-4b6e-4e7c-be6e-cd4bb186e9f6"
+    "ID": "36ac0af5-73a1-4f03-9d69-f914c21d6c2f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:51:00",
-    "ID": "b94c9aaa-c107-4e9b-a14f-2862585c205c"
+    "ID": "f0fcf15a-b113-435b-a54b-4b338ae54fc9",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:52:00",
-    "ID": "cc69ec2b-fb17-4ddc-8901-223ae4e0b1b1"
+    "ID": "89271373-5bbb-4527-aaf5-63c49add14dd",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:53:00",
-    "ID": "975ce1c9-b7c8-415e-846d-e9bcf2e58f21"
+    "ID": "316f8712-6de7-447a-9b9b-c11fce884bc9",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:54:00",
-    "ID": "d9148954-4630-47db-97a6-fe27dec86301"
+    "ID": "c47a2503-fe6e-40f2-a988-8ab3ac4bbee2",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:55:00",
-    "ID": "51fb55ed-e239-4520-a937-82db687a10cd"
+    "ID": "da8dda55-8f9a-4351-afee-15397c698648",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:56:00",
-    "ID": "f079d092-d9f0-4887-a563-c2e565de2d6a"
+    "ID": "df2b33dc-40b0-4c5b-a10a-cae6eae013f9",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:57:00",
-    "ID": "b8295b92-7619-4980-9c4d-619c5f35bd97"
+    "ID": "758477f7-fca3-4892-93b3-1da75a07335b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:58:00",
-    "ID": "55325c06-47ba-4b34-9011-61be7221a234"
+    "ID": "34eec1fd-76d0-4bfc-84ac-f7d81c448bfa",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "340",
+    "lkw": "10",
+    "rad": "16",
+    "fuss": "18",
     "datum": "03/29/2025 07:59:00",
-    "ID": "6122dc6f-75d7-46a5-b066-7f800e55df10"
+    "ID": "baa88db6-9c2c-4263-b0cf-7beea0ff60db",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:00:00",
-    "ID": "5d330280-4d2d-487b-936f-2a0b6750675e"
+    "ID": "761a5daf-d284-465e-a270-f97d7e3014e5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:01:00",
-    "ID": "b033b290-0d4e-4939-9434-2a5a48c8aff9"
+    "ID": "7a88781d-a448-47ff-a6be-91ca5461ba50",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:02:00",
-    "ID": "2a248215-1749-4d59-b23c-c52357793952"
+    "ID": "c4fd59e1-d8f6-4a7f-baf9-b3f7f690fbc3",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:03:00",
-    "ID": "be7be921-9c67-45b2-bd99-349cca36c6ba"
+    "ID": "80b81012-2524-4039-918e-0d274515e220",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:04:00",
-    "ID": "91d03927-0fff-45db-a589-157b55d67c30"
+    "ID": "488f1c89-b323-4431-903e-87d9274dab2f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:05:00",
-    "ID": "d2a32fb9-b0a4-4fdd-9b65-a47d9298e7ae"
+    "ID": "fab1c946-d7d2-4713-8531-5c2bfed4a6b1",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:06:00",
-    "ID": "b4ffd6d6-54f0-4085-8e75-b8174eeed145"
+    "ID": "7d8af150-bb64-4981-90f8-d401e1d9af58",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:07:00",
-    "ID": "83e53dcd-8b28-44be-971a-67380b9b2078"
+    "ID": "4268649d-4752-4175-800d-d15e89ec241a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:08:00",
-    "ID": "bd5978da-eaf7-4aeb-a603-69c7c2157a39"
+    "ID": "60771628-fbd9-427b-a366-40b6d5e951c3",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:09:00",
-    "ID": "9075ee05-ac8e-4d5d-8bc0-195e91273b0f"
+    "ID": "c5bd8292-9ab3-49ae-bec7-d14e12fd97ab",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:10:00",
-    "ID": "09ed66d9-c3f6-4368-ad83-d173c952a0fb"
+    "ID": "905b3835-8f9a-4cc5-83a8-2c2c9a637378",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:11:00",
-    "ID": "3a3ee5cd-2e65-495d-ba4a-5999243510d8"
+    "ID": "dfb47dcd-1404-4558-9d0b-5d8bd72681d8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:12:00",
-    "ID": "5c0ec783-b3c1-4dd2-b989-ed2563083f98"
+    "ID": "6bbc2b97-862c-4ec4-b18c-099481d3482c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:13:00",
-    "ID": "5bbfaef9-df7a-424c-bf22-c09d360440e9"
+    "ID": "7f8287c3-f6d3-4c4d-824c-039eb509025e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:14:00",
-    "ID": "8b137e3e-ab49-4f8f-9169-5cd3db128aa8"
+    "ID": "e5affb03-d7d3-4c44-a524-b966e9746584",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:15:00",
-    "ID": "86b65817-8ea0-498d-9265-d8651634c22e"
+    "ID": "a8254ed7-58a2-4400-877f-0c45f547b737",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:16:00",
-    "ID": "026dd600-5631-4a97-b389-0b87f037fbeb"
+    "ID": "fb080bf0-aa01-4a4a-826a-866220530ef4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:17:00",
-    "ID": "b264e92b-c2e1-478f-8029-e18e6d540ba5"
+    "ID": "a7e971b3-3533-44b7-8a56-3d947476dc6d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:18:00",
-    "ID": "4944427f-e67f-4570-80b2-89acd0e4c2fc"
+    "ID": "e3b208d9-6b4c-4d7a-97cf-fe27dcba2b89",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:19:00",
-    "ID": "beef9d4c-04c3-40ba-b26a-89c0eb3a134c"
+    "ID": "5f2f08d4-b8ee-48be-9d7a-26fb23cc3b7b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:20:00",
-    "ID": "2655c8fb-36ee-42e8-b73c-c67ba1cf64a8"
+    "ID": "53e9bb29-ed5e-4294-898c-f6b590d6538e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:21:00",
-    "ID": "9a558b71-aec2-42a5-84bf-4db9c57df642"
+    "ID": "584f1ba0-f7ca-4b79-98e2-3292c99f924f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:22:00",
-    "ID": "ffc05a69-d3aa-41ae-9603-4f3126050fc6"
+    "ID": "3e3a78aa-130a-42f4-8fbc-355ccba02662",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:23:00",
-    "ID": "38058f38-6e8e-4abe-8f27-80fc2cd1fb71"
+    "ID": "60dbaaef-3225-442c-b389-ef5a69dfc700",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:24:00",
-    "ID": "58600a92-2a5e-4fea-828b-c10c65b044ce"
+    "ID": "d974cff8-75e6-465c-a7b4-cfe0e48a043b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:25:00",
-    "ID": "7eb0d4fc-24eb-4faa-bf8d-e2eefb1fa7ef"
+    "ID": "75606d8b-fd26-4ce8-a5d1-f1b03a7ebd99",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:26:00",
-    "ID": "63741bcc-127e-4ac1-bb5e-18bde129ba6f"
+    "ID": "84467456-2818-44c1-b90e-1ede033e7388",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:27:00",
-    "ID": "b8b6cd09-8cd5-4cad-a9c8-64888c55dfa2"
+    "ID": "0ca061fa-28d3-426b-8250-b9aa78ef9084",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:28:00",
-    "ID": "a77602ed-571b-46fa-b492-a9e97be5df7d"
+    "ID": "631f8763-3598-4e1c-a6dc-413addf7dc0f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:29:00",
-    "ID": "fa1b85ee-4547-4297-a8f6-902f7742c068"
+    "ID": "aaab2dc5-2bdf-4969-ae03-1f2bfff085c8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:30:00",
-    "ID": "b82f8835-7704-4569-8efe-45c8206cddc4"
+    "ID": "0db66cba-0b25-431d-8642-e531715a97a3",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:31:00",
-    "ID": "63d20a05-35dc-4104-ba71-4c8f07fc25f1"
+    "ID": "48f9b21f-d3f5-4c94-b16e-b80dc58c4918",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:32:00",
-    "ID": "b5788d09-98d6-4ee4-84f8-040d46c6ce7f"
+    "ID": "74628d6e-557c-4ca5-9101-56f0862936e5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:33:00",
-    "ID": "6a9750d3-336b-4570-9735-81a7ab637f1c"
+    "ID": "a8a8b580-4c2b-45c6-99b1-f05d28dafa90",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:34:00",
-    "ID": "0e147dc3-a6a7-4d5f-aadf-23ec277671c9"
+    "ID": "6a3ee57d-5a0d-4704-b0ac-25acbbaeb422",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:35:00",
-    "ID": "dfdd14bc-761e-45f6-b75d-ed6e5e5f714b"
+    "ID": "8bb6f049-98e8-4f4e-b052-4742bd37669a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:36:00",
-    "ID": "82ec2c76-81f0-45cb-9f64-71fe865635de"
+    "ID": "7c3da510-ab85-4999-bd96-7bb88e616e5b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:37:00",
-    "ID": "1ac33b02-4b95-49eb-9e45-3710c0b6bd05"
+    "ID": "f3c1a7ab-fc04-43cc-a040-c8a2a7d229e2",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:38:00",
-    "ID": "633a1812-6964-4fab-bb32-f561872d3473"
+    "ID": "f7e556b3-47ff-4cc6-b8bb-5aeaa0ca794c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:39:00",
-    "ID": "5439bfcc-b40e-4fba-b0c9-683360c809d6"
+    "ID": "4dd52c96-7967-4f13-8401-631fa1778f77",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:40:00",
-    "ID": "b3a5bece-9c95-48a5-a12a-2f57711675a0"
+    "ID": "79d38a09-2f16-4225-9408-ee6b940ba13d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:41:00",
-    "ID": "3991603d-8c6d-4cdd-98db-9208568332e2"
+    "ID": "c7fd7666-6958-4c92-8e36-d292d0c36298",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:42:00",
-    "ID": "d83540c2-238b-4a1c-9b1c-b12b90fb24c4"
+    "ID": "5bf8e950-dae5-478f-ab63-c9f1518a4007",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:43:00",
-    "ID": "ca6a4b0d-7094-47d6-a540-500954485d58"
+    "ID": "3c50698f-9d9a-4d74-a8a9-5239c90d4c83",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:44:00",
-    "ID": "b6bc31e2-7060-4c8b-9ad0-390669b0c886"
+    "ID": "180b795d-14b0-42d2-a5d0-c5cf724dcfee",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:45:00",
-    "ID": "c1dc8f50-1bb5-441c-8b59-34dcf08bc90d"
+    "ID": "8e1bca41-b6b4-4ce8-a1a5-a6cc0f833b09",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:46:00",
-    "ID": "9f9d09d1-0a71-4325-8a88-3a2354f6c02a"
+    "ID": "7e1d251f-ed9c-4545-92e4-ae92b74efede",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:47:00",
-    "ID": "56d1e443-a05f-4b8e-9b35-617b3fa8d852"
+    "ID": "059d337f-c63a-44fb-a5bc-6c806facc15e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:48:00",
-    "ID": "e38602a0-6f47-4723-a2d7-79e332963613"
+    "ID": "d2e657a9-d393-44cb-8ee4-9db7a8e461ff",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:49:00",
-    "ID": "317e5c4a-9537-4b8c-8960-3db843ae88de"
+    "ID": "69111143-87b4-4675-828d-495be35eedca",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:50:00",
-    "ID": "f29dd5e6-a7be-4a2d-9915-88d9fd237ad4"
+    "ID": "ac26418e-ace4-4b9d-8f83-6fa0f8dd641d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:51:00",
-    "ID": "260d81ab-76c0-49fc-9132-04f3a48ca948"
+    "ID": "ae0cb242-85fa-453a-8d11-7de3a8939fb5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:52:00",
-    "ID": "1fe7c54b-075b-49d9-a632-0be52247be37"
+    "ID": "c4404350-79da-42a9-9a96-ada4025caa6b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:53:00",
-    "ID": "67d5bc34-d525-49c4-b521-eb4091a23f91"
+    "ID": "928dfa46-e8f8-4548-83d8-5111675b6109",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:54:00",
-    "ID": "ec702ef1-e3ec-4a96-bd7d-9c0af9830245"
+    "ID": "6519a311-e9d6-4195-a532-9c798d63376b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:55:00",
-    "ID": "75f28742-2d15-497c-8927-3dc3c9934d4a"
+    "ID": "66068ca3-1514-46bf-bf95-c10762ba2f55",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:56:00",
-    "ID": "9f6a1b36-a5e8-4be9-a024-313829e6a8e6"
+    "ID": "8192e438-715d-4bc9-86fd-8152bc4a9b0a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:57:00",
-    "ID": "946bdcf6-a9fd-460e-b8b0-aab5ee4249c4"
+    "ID": "0e41d281-6f6e-42ee-a8b4-5633df1501f3",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:58:00",
-    "ID": "99395173-b73c-4f5f-8e57-144c5b07fb30"
+    "ID": "8f5f8004-a898-4d04-8cc9-159669f5b0c5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "576",
+    "lkw": "9",
+    "rad": "8",
+    "fuss": "36",
     "datum": "03/29/2025 08:59:00",
-    "ID": "93136759-bcec-4e30-a98b-6adaae388576"
+    "ID": "f6d267a3-dedf-423f-a339-82305b698e19",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:00:00",
-    "ID": "07afddb1-6acc-4bda-9685-4ba84ab70914"
+    "ID": "ab73859c-6359-4751-af64-586a0205c561",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:01:00",
-    "ID": "e8b56716-2bb4-4daf-9486-6121c9a946c5"
+    "ID": "4c6c7910-2cd3-42af-8e79-e8df3f8b016c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:02:00",
-    "ID": "1b315663-4747-40c9-a22f-34bce0c51389"
+    "ID": "4a5bbfd9-4214-4e68-84f4-ed01153a15ee",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:03:00",
-    "ID": "757e10cc-d9a7-49b3-9e54-d85cca528979"
+    "ID": "7e1078c5-6c4b-405b-a8d7-3d6c60c976b4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:04:00",
-    "ID": "7e315869-8258-4bb3-aef1-1deb2e20900a"
+    "ID": "fe5aacc2-85b4-43d0-9214-a540e1e1f91c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:05:00",
-    "ID": "db71a39e-22ef-4dd5-a82c-073f672618d5"
+    "ID": "e0e135d7-b39d-452b-a652-5928f2aa5023",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:06:00",
-    "ID": "92d686e3-3eb3-4eff-9e26-8a9f7ddb525b"
+    "ID": "2a4b2943-a109-4690-bcbf-769dfcf7e249",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:07:00",
-    "ID": "8b6735c0-91ff-472d-856d-83e1175bbac9"
+    "ID": "76d6b10b-23cb-4fc5-bc59-be1938852e76",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:08:00",
-    "ID": "5db13645-38bc-424f-88da-fc563f3f6e0f"
+    "ID": "8b2ed71f-1e91-4f12-8479-dfc4c61d3aab",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:09:00",
-    "ID": "1bd6a076-42d0-4764-812e-f9cae10b949e"
+    "ID": "e76ec781-dcb9-4062-9295-98b5518bdfad",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:10:00",
-    "ID": "c43a2243-5e1f-484e-86de-c4af88246b26"
+    "ID": "58960936-4f24-4c85-b078-6790ca328201",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:11:00",
-    "ID": "4f1fedb8-863d-491f-afd4-fd7b019840a4"
+    "ID": "3c465009-15a6-42f8-8de3-e94104df4648",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:12:00",
-    "ID": "6b971469-4309-48b9-b574-6f047df250d8"
+    "ID": "c2b11ef9-d885-4d82-9b2f-9a209be51a9a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:13:00",
-    "ID": "af875b69-7152-45bc-9ffd-67c53d276f3a"
+    "ID": "825a8130-7498-48b8-9f5f-8665bad8c7e2",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:14:00",
-    "ID": "044b765a-34a2-44b5-a948-989f92737d07"
+    "ID": "38420105-15db-4aa8-b0a3-53f448ae0871",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:15:00",
-    "ID": "466d176b-82c7-414c-a55d-b91704c6a102"
+    "ID": "3df03c73-e482-43b3-9b9c-766b621408f7",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:16:00",
-    "ID": "93be8432-bd1f-4339-a81a-5c31508970f6"
+    "ID": "12c8736d-87f2-4342-abb6-64031c2390f2",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:17:00",
-    "ID": "70c98ae5-154f-4bd5-bf0e-b25abb91879e"
+    "ID": "b693848a-06ce-4a69-9936-b4e5daa7b8ba",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:18:00",
-    "ID": "91e6a548-1cff-4022-b938-ca74ed99f405"
+    "ID": "a2abffc0-f46d-4dda-bb14-fdb28b883cd3",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:19:00",
-    "ID": "1dfd782f-436f-458b-b7c0-a9a37ea20d0a"
+    "ID": "63e74367-6d9c-47a6-95cc-17bcc0ba756f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:20:00",
-    "ID": "15320963-16db-4cdb-afbc-e9cf5352f590"
+    "ID": "143299c6-373d-4730-9604-492ad7d63867",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:21:00",
-    "ID": "3427c311-7431-4e0e-8d19-70cbb602f34d"
+    "ID": "e20d45b9-b334-4add-b1b8-63661c8bf7cb",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:22:00",
-    "ID": "a56919a8-c8a1-49ff-8d4a-12ba7203650a"
+    "ID": "5451c5fe-c5e5-4e5c-9fab-09419847b628",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:23:00",
-    "ID": "81be40ce-3848-4f88-a087-5e6455d5b525"
+    "ID": "a2e16c02-1475-4eea-b8a4-a6e3cdaf8fc0",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:24:00",
-    "ID": "cf89420f-1145-47c1-82a7-557cd52a171d"
+    "ID": "4d15c041-9bc2-42ed-b601-35d138a947fa",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:25:00",
-    "ID": "c120c146-e260-4e28-9e7f-d9541398cea4"
+    "ID": "22447097-5272-4481-ad37-dc2b27a8fad6",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:26:00",
-    "ID": "f1fd867c-a663-47fb-82f5-8a75f065cb49"
+    "ID": "c0639dc1-07fb-45b5-9c99-4a0880cfec9d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:27:00",
-    "ID": "2accfe01-c6de-4c97-9eaa-0dd056194c5e"
+    "ID": "8005308d-26f5-4558-afae-1e678f064ead",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:28:00",
-    "ID": "8a6acf4e-7962-4c5a-92dd-5c40916694ac"
+    "ID": "1fde0a65-6a48-4f3e-880c-dce7c9f03143",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:29:00",
-    "ID": "1ae395d2-06e7-4398-8e2d-6cf2a53a5865"
+    "ID": "ed98ecd2-63ac-4b65-bf32-6082fd289464",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:30:00",
-    "ID": "94d08b82-487d-4a78-b35a-f397eb2044c4"
+    "ID": "42da5332-2636-4d34-af3b-90e3ab6cd582",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:31:00",
-    "ID": "25d55bdf-3252-4b98-86e9-47f6e9792e67"
+    "ID": "29520e6a-fcfe-4557-a286-5d5e6c7d20a4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:32:00",
-    "ID": "01012a00-6ae7-438d-9179-047a95a28c38"
+    "ID": "4d54a191-a784-4163-b398-1d931e0407e8",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:33:00",
-    "ID": "b9182609-5602-4ce6-b2d1-aa54da5a7705"
+    "ID": "400e3250-cbce-481d-af26-6c379aff4c27",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:34:00",
-    "ID": "813b8dce-3948-4b9c-9001-bf1f1524c73a"
+    "ID": "4bc1a4d7-b4ba-4e92-b5ec-9a47deaaaa0d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:35:00",
-    "ID": "1e9b73c8-975b-458e-8244-6359f318e773"
+    "ID": "f8f979a1-3d25-4caf-b264-2e1a28edd8b3",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:36:00",
-    "ID": "a2085c57-ee38-4cd2-be79-1b4a608e6add"
+    "ID": "8661c9f8-a159-421a-9449-7e5f625ae703",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:37:00",
-    "ID": "dc20e58d-e938-4c89-a2a1-cb9844eefce6"
+    "ID": "887afa0b-d923-4663-9a2f-3ade1ee42886",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:38:00",
-    "ID": "32992b18-fea5-458a-94db-84e465f18dd2"
+    "ID": "02d08517-aa8d-4631-91f8-0350ffe260dd",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:39:00",
-    "ID": "9b0df89b-18a1-488e-82a9-e91d0c8a00b1"
+    "ID": "f759362b-c55c-4a61-a5fd-73e3b04fdb21",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:40:00",
-    "ID": "2f5c45e3-911e-494f-b2b3-583c7443c3c1"
+    "ID": "08f8b12f-7c2e-4a3d-8e30-0777b1a7fa3a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:41:00",
-    "ID": "bae8008b-f7d4-42ff-bfe3-d4ba27af779d"
+    "ID": "9534b163-f3a2-45ba-95c9-bc2e5ee0d6aa",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:42:00",
-    "ID": "509674e3-2ad5-4adb-8eef-06a6dd0bc84b"
+    "ID": "93fe6999-8b4f-410b-8475-57b4048b042f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:43:00",
-    "ID": "6ddaa34d-4e6d-4a83-85a4-31c516efdc79"
+    "ID": "13ae12f6-d51c-4458-9287-264f338828d4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:44:00",
-    "ID": "e2225be1-f4c2-48e1-b075-55c4938f1d40"
+    "ID": "7725bcf0-2104-433e-90a0-329ad6ae64fa",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:45:00",
-    "ID": "013d4af4-8451-4200-a5fd-2241dc3f2411"
+    "ID": "d27a149d-bf69-4e7d-8925-64862a8d2f89",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:46:00",
-    "ID": "9d03c151-1c97-42d3-b70f-d5ea3fdb3505"
+    "ID": "da8ba97a-b25a-4862-b8c0-54a92fb54b5a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:47:00",
-    "ID": "69f4bda7-45b8-48ce-bce9-8cb6edb37fdd"
+    "ID": "574cd807-13a9-4e6f-806a-5e00c7216950",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:48:00",
-    "ID": "528f7537-811a-4ba0-9e3c-95f20fc06f94"
+    "ID": "d29dcc2f-1317-4051-ad50-94a524ea6dff",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:49:00",
-    "ID": "f92fdd36-c66f-4bbe-9225-47f2e8ad02c0"
+    "ID": "e1f0a8f2-35a4-4e13-85e8-5a8b81d05669",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:50:00",
-    "ID": "908d9111-bf0a-49c8-b6d7-9c499d288b7a"
+    "ID": "a04df615-0536-40a4-8d7a-05d531b50419",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:51:00",
-    "ID": "5231f5f5-96e5-4d06-ad1b-1c1b2cf0c828"
+    "ID": "d50774d0-0103-426d-bf3d-b7f685188dce",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:52:00",
-    "ID": "2eb96767-cda5-4526-a784-66b9ced09ae7"
+    "ID": "742cafb6-5fe2-40d3-8f06-e0340cd2b12b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:53:00",
-    "ID": "5c41e9ee-28b7-401f-9e2f-e41abc0aa4aa"
+    "ID": "16ddb333-518e-471d-8d11-e154a83ab085",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:54:00",
-    "ID": "edbaa1b7-2c34-47c8-8436-470f491a7fba"
+    "ID": "07ae4c96-1129-4591-9b03-435e79208fa7",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:55:00",
-    "ID": "59fab5ab-2864-45ec-be97-0bdb8a248bcb"
+    "ID": "dfa4db82-9605-4d22-a87a-65a6c3687e6e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:56:00",
-    "ID": "e3e79cd9-3e60-4eac-9ba8-7eb2acc20ae1"
+    "ID": "716dadc0-df74-46e0-a9d8-218a8dd74f99",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:57:00",
-    "ID": "e7b19d5e-93bc-4e4d-8dd1-7e2cb9ae3a50"
+    "ID": "d69a88d1-fcaf-4964-9d3d-b8b71e343ddc",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:58:00",
-    "ID": "7b9675a5-c5eb-4092-bbc3-39ae54a33783"
+    "ID": "2ba03683-162d-40a4-9a9f-9001ac444538",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
     "pkw": "718",
+    "lkw": "15",
+    "rad": "19",
+    "fuss": "60",
     "datum": "03/29/2025 09:59:00",
-    "ID": "ebd2ec66-fad0-4aa8-ac21-d7227f4d4ce0"
+    "ID": "63be407c-1e01-4017-b09b-5a75f1caccac",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:00:00",
-    "ID": "7fa4cad5-581c-49ab-8920-8c39875c7965"
+    "ID": "7884fedb-d55f-433a-9b67-a324ba2e72dc",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:01:00",
-    "ID": "f25a9e19-22e6-43a9-9476-d5964c4e0611"
+    "ID": "f3489085-0066-4364-8008-78651cae3f2e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:02:00",
-    "ID": "0cf3288e-beeb-4c1c-83a4-88d1081d22d4"
+    "ID": "838b734c-afd9-43e6-8758-6fb82a56d580",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:03:00",
-    "ID": "741ee787-cd8a-4fb3-8b11-19bdaf700c2a"
+    "ID": "503f8af8-0ec4-4fde-9f7c-208a9b6f0b52",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:04:00",
-    "ID": "08e133ae-d2f7-4a04-b8e5-5a27cc8f5d74"
+    "ID": "0be4a19d-82d7-4dad-aaf4-db42b382a7ae",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:05:00",
-    "ID": "7dba7819-c735-4570-9d2e-7b4e5a57c554"
+    "ID": "880b112e-d0cb-4446-bd19-6f15a3ee77f1",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:06:00",
-    "ID": "c33ef999-54f5-4c48-972f-5fb5cd0c94fd"
+    "ID": "d46efe3f-8ad4-4f68-8e09-07ec3e601c7e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:07:00",
-    "ID": "aa1444bb-8370-4f5b-94fc-2015ee8e1fd3"
+    "ID": "1389a7d3-6c18-46b0-836a-bc63c0911985",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:08:00",
-    "ID": "b20e6f1c-d102-4df7-8e3d-31ad183bf302"
+    "ID": "0a554364-306b-4705-9465-a27104b7bf79",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:09:00",
-    "ID": "93d39069-59d0-4a84-9b9e-2d99301a7a78"
+    "ID": "074c1ee4-d4a7-4f97-83a2-0ee55197cd0a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:10:00",
-    "ID": "7da293ef-7b01-4597-83a2-bdc5a9a5f0e0"
+    "ID": "4d5a77ab-76f3-43a2-8f7a-08efbf4aaec7",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:11:00",
-    "ID": "970527c4-7fe0-467c-85eb-98112e1ba537"
+    "ID": "3f03f16a-53ea-4a12-a724-fe343347a0ac",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:12:00",
-    "ID": "dedbf7a1-eea9-4427-9a97-251780d5e30e"
+    "ID": "3da94bf6-4b7a-48a4-9623-2f9e8d2be5b2",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:13:00",
-    "ID": "3d37fae8-4276-446f-8368-c57c50777b02"
+    "ID": "374eff21-3b19-428e-9211-be3752a8f70f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:14:00",
-    "ID": "a437ae17-ee43-4336-9c90-18ae48426ec6"
+    "ID": "6a8309f9-3e03-408a-82c7-674b8d6dfe93",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:15:00",
-    "ID": "64b1872b-3c33-4195-bb28-cf9dcc0f71fc"
+    "ID": "35d838ee-1f24-46c9-ab0e-5263493030c5",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:16:00",
-    "ID": "92c33a40-d97c-4300-a300-16131036f682"
+    "ID": "cb0ce148-ee19-4660-b4cd-aa1e2d4279b4",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:17:00",
-    "ID": "cafccc76-755b-4634-a51e-fd049d452ee5"
+    "ID": "749a7802-dcd1-485a-86e0-464ec009cd20",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:18:00",
-    "ID": "0df6282a-1667-48dd-b692-ab9f699ba630"
+    "ID": "1c074f66-eca3-451c-a8c9-ad66ee901841",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:19:00",
-    "ID": "699a5461-79d3-4e43-af64-71ee72231143"
+    "ID": "8d2e8c1a-6a98-43d6-bb50-3ceeee7e51b9",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:20:00",
-    "ID": "26f35c4c-2569-48fd-8faf-cd9480202e78"
+    "ID": "800eca72-9531-4f53-a2cd-cb72390c7f1d",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:21:00",
-    "ID": "c2dc0dde-0afe-4741-8f63-64fa6597bd44"
+    "ID": "50c17b0d-0e36-480d-932c-f881e748c3ba",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:22:00",
-    "ID": "85c52cfc-4c48-4c7f-8c67-b6fde23bad42"
+    "ID": "3ad488e4-7674-4b72-95f8-21c774657f4f",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:23:00",
-    "ID": "0261f75b-650c-4216-9109-85d03651bfa3"
+    "ID": "dbadb761-71c8-47a3-bd64-e0088130ca4e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:24:00",
-    "ID": "35a186b9-9dc8-4512-bf5b-26e845e6827c"
+    "ID": "90207adb-16ba-4bfc-bd6c-c6f5eaefde61",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:25:00",
-    "ID": "f7c4e902-6e22-4b7f-bc00-d898676c5ca0"
+    "ID": "7a3d3793-70a6-47c7-a5c1-796f6786435a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:26:00",
-    "ID": "3774bef2-8eea-4941-a658-8cb9eb42379e"
+    "ID": "19c62b95-fbf5-4d19-9c6c-ce6ac66e8597",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:27:00",
-    "ID": "9d7fd056-ff0a-46e0-aa34-32bc6f99e0ac"
+    "ID": "37c36ce7-eeb6-4129-b725-8ee78dcbff48",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:28:00",
-    "ID": "6da0872c-2a00-48bd-8932-f32c4e018b60"
+    "ID": "f68b4d38-8be9-438e-8216-331262fe1e9a",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:29:00",
-    "ID": "32fecdf8-81fc-440a-9baf-db121035d690"
+    "ID": "70feb3c1-d555-48c7-8989-95c829133546",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:30:00",
-    "ID": "2af0eabe-9627-4e4b-a0cb-06db88dd6e96"
+    "ID": "3dc8c80e-8142-4aa2-9fe2-cd091f1e2bce",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:31:00",
-    "ID": "90701cdb-2e02-4393-abd7-9b8962e99a28"
+    "ID": "c26914d4-5e80-46c6-a964-c70379c669d6",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:32:00",
-    "ID": "5c1174be-174a-4209-afc2-7f6d2609e804"
+    "ID": "47fd4d96-febd-4877-93c6-6015bbd1d487",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:33:00",
-    "ID": "4201697d-4937-49e6-88d9-96afb40cfad9"
+    "ID": "0a72b668-8bee-4d75-8867-0c84a0793aaf",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:34:00",
-    "ID": "08a1d53b-3d4b-4b3f-a8df-f0e1522afe09"
+    "ID": "997b5e0c-1e11-4077-afb9-e422a3083244",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:35:00",
-    "ID": "c645ef22-60f8-41c5-a061-bf89d12615be"
+    "ID": "e33c9a36-b42d-439e-a9f7-8eaf3f8d1a30",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   },
   {
-    "pkw": "430",
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
     "datum": "03/29/2025 10:36:00",
-    "ID": "f0505d1b-c74e-4840-adc2-cb3d145c4e4f"
+    "ID": "50f5d712-9781-4646-9186-af84fe43eae9",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
+  },
+  {
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
+    "datum": "03/29/2025 10:37:00",
+    "ID": "073c67f0-6faf-42b1-9666-751620a8b331",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
+  },
+  {
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
+    "datum": "03/29/2025 10:38:00",
+    "ID": "773db883-6e02-49d4-b476-96b6ff3a7823",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
+  },
+  {
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
+    "datum": "03/29/2025 10:39:00",
+    "ID": "ff21ca0e-7de4-49ef-8860-a1ae22368288",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
+  },
+  {
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
+    "datum": "03/29/2025 10:40:00",
+    "ID": "4bdd0066-d207-4c69-8ef9-98795b37214c",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
+  },
+  {
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
+    "datum": "03/29/2025 10:41:00",
+    "ID": "16b81233-b2b3-40fc-b43f-6d0338aff2b3",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
+  },
+  {
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
+    "datum": "03/29/2025 10:42:00",
+    "ID": "4d996dd5-244e-472c-a08b-a2db64e4d9ce",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
+  },
+  {
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
+    "datum": "03/29/2025 10:43:00",
+    "ID": "efea8aa8-f3ce-4f36-b5d7-d9972ba3668b",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
+  },
+  {
+    "pkw": "497",
+    "lkw": "3",
+    "rad": "9",
+    "fuss": "49",
+    "datum": "03/29/2025 10:44:00",
+    "ID": "24adf378-3774-487d-99db-2c3f7f77ac5e",
+    "ort": "Nibelungenbrücke",
+    "richtung": "Linz"
   }
 ]
